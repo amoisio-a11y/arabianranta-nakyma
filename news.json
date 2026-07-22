@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22T09:13:02.423134+00:00",
+  "generated": "2026-07-22T09:17:16.510218+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -7,12 +7,6 @@
       "title": "Mai Kivelä: \"Uutta rakentamistapaa voisi testata Arabianrannassa\" - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBZkhncWk5WEs1dGxRSW5JM3VGTHVYbnRBN0s5d0pXVU9zeVdPREZMNVNja0NQMklUM2J0SXR0ZmxXMlNqQlVELUpoU2djZ2xpYXFBMWRYVUwwRzJqQVJmXw?oc=5",
       "iso": "2026-07-20T06:25:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Juoksu | Polkien Mikkelistä Makkolaan ja voittajana takaisin – Toukola-hölkässä tehtiin sekä osallistujaennätys että reittiennätys - Kangasniemen Kunnallislehti",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DOEpnamI3cUxGdDEzSEJEejZKNVdIbHFYN244c2RUR3NYdGdGYnlnMHl2NEx0NWJLYWJvSmxNaGdBRjlaaVBONC1oeWhUbm1sbEYwVElNSEFDZjJuOFJBYzdB?oc=5",
-      "iso": "2026-07-13T10:15:32+00:00",
       "src": "Google News"
     },
     {
@@ -182,6 +176,12 @@
       "link": "https://kaupunginosat.fi/artova/pro-vanhakaupunki-ry-on-ottanut-kantaa-alueen-suunnitelmiin/",
       "iso": "2026-06-12T08:21:12+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Teemaopastukset Kumpulan puutarhassa - University of Helsinki",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb3QxajFzWG9PNXZzWUJjWHRvZXRiNlpaQlRQSG02NElLOGprSlhkMWctTXh5RFhfNThtelJ3STBrWjRseUJENnNPbEpJMXVVQ1k2cDBsWENRWDBYN1Zpel9SMl81TG12NDVEUklYN0JRbmxkOUFqVTlwLXZJWEdwQUU3QjAzcDdrT1RnZHBDUENrYlBMcWxF?oc=5",
+      "iso": "2026-06-10T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
