@@ -4,7 +4,7 @@
   { "name": "Rakennuslehti",  "url": "https://www.rakennuslehti.fi/avainsanat/toukola/feed/" },
   { "name": "Rakennuslehti",  "url": "https://www.rakennuslehti.fi/avainsanat/kumpula/feed/" },
   { "name": "Google News",  "url": "https://news.google.com/rss/search?q=Arabianranta+OR+Arabianrannan+OR+Arabianrannassa+OR+Arabianrantaan+OR+Arabianrantaa+OR+Arabianrannasta+OR+Arabianrannalla&hl=fi-FI&gl=FI&ceid=FI:fi" },
-  { "name": "Google News",  "url": "https://news.google.com/rss/search?q=Toukola+OR+Toukolan+OR+Toukolassa+OR+Toukolaan+OR+Toukolaa+OR+Toukolasta+OR+Toukolalla&hl=fi-FI&gl=FI&ceid=FI:fi" },  
+  { "name": "Google News",  "url": "https://news.google.com/rss/search?q=Helsinki+AND+(Toukola+OR+Toukolan+OR+Toukolassa+OR+Toukolaan+OR+Toukolaa+OR+Toukolasta+OR+Toukolalla)&hl=fi-FI&gl=FI&ceid=FI:fi" },  
   { "name": "Google News",  "url": "https://news.google.com/rss/search?q=Kumpula+OR+Kumpulan+OR+Kumpulassa+OR+Kumpulaan+OR+Kumpulaa+OR+Kumpulasta+OR+Kumpulalla&hl=fi-FI&gl=FI&ceid=FI:fi" },  
   { "name": "Helsingin kaupunki", "url": "https://www.hel.fi/fi/uutiset/rss?neighbourhoods%5B0%5D=418&neighbourhoods%5B1%5D=446&neighbourhoods%5B2%5D=452" }
 ]
