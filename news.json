@@ -1,18 +1,12 @@
 {
-  "generated": "2026-07-24T04:30:06.229938+00:00",
+  "generated": "2026-07-24T07:10:20.861504+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 1,
   "items": [
     {
       "title": "Mai Kivelä: \"Uutta rakentamistapaa voisi testata Arabianrannassa\" - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBZkhncWk5WEs1dGxRSW5JM3VGTHVYbnRBN0s5d0pXVU9zeVdPREZMNVNja0NQMklUM2J0SXR0ZmxXMlNqQlVELUpoU2djZ2xpYXFBMWRYVUwwRzJqQVJmXw?oc=5",
       "iso": "2026-07-20T06:25:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Helsingin kantakaupungissa sijaitsee poikkeuksellinen palvelutyhjiö – ei kauppaa, baaria tai kuntokeskusta - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfU2NoZmh0Ukg5TTlBampjNTEwYVY2TUR2Q3lyRXh3N0xoUi1HSjN6a05pYXplY2ZnNDJiX3poQ3QxVjk2VUFXZ3dIZDlpVmh2cVotSmtBaXdsNUNOUS1lQQ?oc=5",
-      "iso": "2026-07-10T04:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -182,6 +176,12 @@
       "link": "https://kaupunginosat.fi/artova/artova-ryn-kevatkokous-29-4-2026/",
       "iso": "2026-04-16T08:53:56+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Varaa paikkasi Torikannen kirppikselle la 9.5.",
+      "link": "https://kauppakeskusarabia.fi/varaa-paikkasi-torikannen-kirppikselle-la-9-5/",
+      "iso": "2026-04-13T10:00:00+00:00",
+      "src": "Kauppakeskus Arabia"
     }
   ]
 }
