@@ -1,24 +1,42 @@
 {
-  "generated": "2026-07-24T12:02:34.179841+00:00",
+  "generated": "2026-07-24T12:22:21.077975+00:00",
   "count": 30,
   "failed": 0,
   "items": [
     {
       "title": "IKEBANA – JAPANILAINEN KUKKIENASETTELUN TAIDE",
       "link": "https://hyotykasviyhdistys.fi/tapahtumat/ikebanajapanilainenkukkienasetteluntaide/",
-      "iso": "2026-09-14T05:00:00+00:00",
+      "iso": "2026-07-24T12:20:35+00:00",
       "src": "Annalan huvila"
     },
     {
       "title": "Syysmatka Viroon",
       "link": "https://hyotykasviyhdistys.fi/tapahtumat/syysmatka-viroon/",
-      "iso": "2026-09-11T05:00:00+00:00",
+      "iso": "2026-07-24T12:20:35+00:00",
       "src": "Annalan huvila"
     },
     {
       "title": "ANNALAN LÄÄKEKASVIKURSSI 2026",
       "link": "https://hyotykasviyhdistys.fi/tapahtumat/annalanlaakekasvikurssi/",
-      "iso": "2026-07-30T05:00:00+00:00",
+      "iso": "2026-07-24T12:20:35+00:00",
+      "src": "Annalan huvila"
+    },
+    {
+      "title": "HEINÄKUUN TORSTAIDEMOT",
+      "link": "https://hyotykasviyhdistys.fi/tapahtumat/heinakuun-torstaidemot/",
+      "iso": "2026-07-24T12:20:35+00:00",
+      "src": "Annalan huvila"
+    },
+    {
+      "title": "TIISTAITEEMAT 2026",
+      "link": "https://hyotykasviyhdistys.fi/tapahtumat/tiistaiteemat-2026/",
+      "iso": "2026-07-24T12:20:35+00:00",
+      "src": "Annalan huvila"
+    },
+    {
+      "title": "ANNALAN HUVILAN SUNNUNTAIKAHVILA kesätauko alkaa 21.6.",
+      "link": "https://hyotykasviyhdistys.fi/tapahtumat/huvilansunnuntaikahvila/",
+      "iso": "2026-07-24T12:20:35+00:00",
       "src": "Annalan huvila"
     },
     {
@@ -32,12 +50,6 @@
       "link": "https://arabia135.fi/ajankohtaista/tapahtumat/fragile-arabian-taideosastoyhdistyksen-kerrostumia-nayttely/",
       "iso": "2026-07-03T07:50:07+00:00",
       "src": "Arabia 135"
-    },
-    {
-      "title": "HEINÄKUUN TORSTAIDEMOT",
-      "link": "https://hyotykasviyhdistys.fi/tapahtumat/heinakuun-torstaidemot/",
-      "iso": "2026-07-02T05:00:00+00:00",
-      "src": "Annalan huvila"
     },
     {
       "title": "Kasvimatka Kumpulassa: Kalliovuorilta Japaniin yhdessä päivässä - Helsingin Uutiset",
@@ -148,12 +160,6 @@
       "src": "Google News"
     },
     {
-      "title": "TIISTAITEEMAT 2026",
-      "link": "https://hyotykasviyhdistys.fi/tapahtumat/tiistaiteemat-2026/",
-      "iso": "2026-05-26T05:00:00+00:00",
-      "src": "Annalan huvila"
-    },
-    {
       "title": "Luonto | Karannut mehiläisparvi yritettiin pelastaa Kumpulassa kesken kirppispäivän - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tbEFoRGxDYjZFUGdDc2w0V3NzeGFFMjhqZFpHMnh5R1QwMi1MSHJjd2pieEpmVG10UTkyN3FsaE8zcEhoZGtRc3ZwelQwaVZIX3MxSUhwcXoxejh4RXc?oc=5",
       "iso": "2026-05-23T07:00:00+00:00",
@@ -175,12 +181,6 @@
       "title": "Arabia",
       "link": "https://kauppakeskusarabia.fi/opiskelijaedut/",
       "iso": "2026-05-13T07:46:49+00:00",
-      "src": "Kauppakeskus Arabia"
-    },
-    {
-      "title": "Nouda ja lähetä paketit helposti Arabiasta!",
-      "link": "https://kauppakeskusarabia.fi/arabian-pakettipisteet/",
-      "iso": "2026-05-13T07:43:44+00:00",
       "src": "Kauppakeskus Arabia"
     }
   ]
