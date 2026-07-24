@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-24T12:39:18.403758+00:00",
+  "generated": "2026-07-24T12:51:14.506266+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -44,6 +44,24 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBZkhncWk5WEs1dGxRSW5JM3VGTHVYbnRBN0s5d0pXVU9zeVdPREZMNVNja0NQMklUM2J0SXR0ZmxXMlNqQlVELUpoU2djZ2xpYXFBMWRYVUwwRzJqQVJmXw?oc=5",
       "iso": "2026-07-20T06:25:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Kääntöpaikan syksyn kurssiohjelma on julkaistu!",
+      "link": "https://kaantopaikka.fi/kaantopaikan-syksyn-kurssiohjelma-on-julkaistu/",
+      "iso": "2026-07-11T18:50:52+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Perjantaiklubilla 17.7. Rakas Eden",
+      "link": "https://kaantopaikka.fi/perjantaiklubilla-17-7-rakas-eden/",
+      "iso": "2026-07-11T18:44:30+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Rekry! Kääntöpaikka etsii yhteisötyöntekijää ja koordinaattoria",
+      "link": "https://kaantopaikka.fi/rekry-kaantopaikka-etsii-yhteisotyontekijaa-ja-koordinaattoria/",
+      "iso": "2026-07-11T09:54:59+00:00",
+      "src": "Kylätalo Kääntöpaikka"
     },
     {
       "title": "Fragile – Arabian Taideosastoyhdistyksen kerrostumia – näyttely",
@@ -94,6 +112,54 @@
       "src": "Google News"
     },
     {
+      "title": "Lippakiskan Kirjamessut 14.–16.8.",
+      "link": "https://kaantopaikka.fi/lippakiskan-kirjamessut-14-16-8/",
+      "iso": "2026-06-16T07:41:02+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Avoimet breikkitreenit joka maanantai Kääntöpaikalla",
+      "link": "https://kaantopaikka.fi/avoimet-breikkitreenit-joka-maanantai-kaantopaikalla/",
+      "iso": "2026-06-15T19:39:37+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Tule kielikahvilaan harjoittelemaan suomen kieltä kanssamme!",
+      "link": "https://kaantopaikka.fi/tule-kielikahvilaan-harjoittelemaan-suomen-kielta-kanssamme/",
+      "iso": "2026-06-15T18:52:03+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Liity mukaan Kääntöpaikan kävelijöihin!",
+      "link": "https://kaantopaikka.fi/liity-mukaan-kaantopaikan-kavelijoihin/",
+      "iso": "2026-06-15T16:33:33+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Kesän Leikkitreffit keskiviikkoisin Intiankadun Lippakiskalla",
+      "link": "https://kaantopaikka.fi/leikkitreffit-joka-kesakeskiviikko-intiankadun-lippakiskalla/",
+      "iso": "2026-06-15T16:01:53+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Lippakiskan Sunnuntaikirppikset käynnistyvät 14.6.",
+      "link": "https://kaantopaikka.fi/lippakiskan-sunnuntaikirppikset-kaynnistyvat-14-6/",
+      "iso": "2026-06-15T15:46:43+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Vohvelikiska tarjoaa kesätyön 20 nuorelle",
+      "link": "https://kaantopaikka.fi/vohvelikiska-tarjoaa-kesatyon-20-nuorelle/",
+      "iso": "2026-06-15T15:35:21+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Kesätiistaisin aamupuuro katetaan Lippakiskalle",
+      "link": "https://kaantopaikka.fi/maksuton-aamupuuro-lippakiskalla-joka-kesatiistai/",
+      "iso": "2026-06-15T15:04:06+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
       "title": "Miniloma Arabiassa: Designin ystävän päiväretki Arabiaan – seitsemän kohdetta",
       "link": "https://arabia135.fi/ajankohtaista/tiedotteet-artikkelit/miniloma-arabiassa/",
       "iso": "2026-06-15T10:37:42+00:00",
@@ -116,72 +182,6 @@
       "link": "https://kaupunginosat.fi/artova/artovan-kotikaupunkipolut-new-european-bauhaus-tapahtuman-avaus-9-6/",
       "iso": "2026-06-09T09:39:59+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Puutarhapiirustus – Luovaa luonnostelua Kumpulassa - University of Helsinki",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS1RnaDZ0MU4yVWxxSmpDNXA0aFFHeHloNmkwVmFPVGFEdHowNXNpelM3RnlHWlJzUkNUQTkwNjR3aU44SFIydlR4MmRScE9HQy1GdzZKaFNlOUVwenZfb082blB0OGt6RlliRHRHdTVVV0ZuNkhsaVRGX25oSF83LWRmcTFRLXFDZUd0cGoyRnVaLW5wRmozejYyT2dKcF9SM2NkWVF2bw?oc=5",
-      "iso": "2026-06-09T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Kumpulan kampukselle neljä Business Finlandin Näytönpaikka -rahoitusta - University of Helsinki",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRUJjVTc0dUNsMkJtVVpVbFRoN3pLTldtVUVJVGlkNFJIQWRrNV85SmxKV0ZRWDM0SV82NkdtWU14ZVlxSnlvUWxmUXhiUXVpZ0h4MnpvekwtSE1NNmF6eXNhczFaRHE2bFZKNTZicl9oMDZsUVp1TEpIZjJWNDUwanFKZDJQYVc4d2NFLWg1blV4dlQxVmtITldfVWNzSVY0d1VHckNsbTF6T08taWZIdW93TG16YW1TcHNIRFBvSjRtbl8zNVc2aEExTTBESEs3QURTNGd6QjJ3dUdKYngwYkpPajQ5NDNZ?oc=5",
-      "iso": "2026-06-01T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Helsinki | Asukas havahtui savunhajuun, kun joku poltti koulukirjoja talon vieressä - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tUy1XNHU4SEg2bG54cGRrQzdveVd4bF9OcHRZV3VRSWZpNzhCSHBaczhQbXZhWFBqVWhUcWx4NTZIRjFJZi1WY1g5S3dsdmhnOHp4dTZxa01hQlQ0RGc?oc=5",
-      "iso": "2026-05-30T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Lähde mukaan Artovan kotikaupunkipolkujen työpajoihin ja kierroksille!",
-      "link": "https://kaupunginosat.fi/artova/lahde-mukaan-artovan-kotikaupunkipolkujen-tyopajoihin-ja-kierroksille/",
-      "iso": "2026-05-28T17:24:14+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Arabianbaana hyväksyttiin kaupunkiympäristölautakunnassa yksimielisesti muutosesityksin",
-      "link": "https://kaupunginosat.fi/artova/arabianbaana-hyvaksyttiin-kaupunkiymparistolautakunnassa-yksimielisesti-muutosesityksin/",
-      "iso": "2026-05-28T17:07:10+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Vuokraa Artovan soutuvene!",
-      "link": "https://kaupunginosat.fi/artova/vuokraa-artovan-soutuvene-2/",
-      "iso": "2026-05-28T09:26:36+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Pyöräbaana | Arabianrannan baanan tieltä raivatut puut luvataan palauttaa puistoon - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kMTFHRjFqdmpKV09YaFI4T0RuazJEMzFjRTh4dHFDNDFaeWlHMnJXb0tQREpMMUoxOTkxSTNGcUV4MkdmNFZsSlpSZ0NDRkdRckZJMWc3YnZxaVQ2emc?oc=5",
-      "iso": "2026-05-28T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Luonto | Karannut mehiläisparvi yritettiin pelastaa Kumpulassa kesken kirppispäivän - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tbEFoRGxDYjZFUGdDc2w0V3NzeGFFMjhqZFpHMnh5R1QwMi1MSHJjd2pieEpmVG10UTkyN3FsaE8zcEhoZGtRc3ZwelQwaVZIX3MxSUhwcXoxejh4RXc?oc=5",
-      "iso": "2026-05-23T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Tämän haluan sanoa (2026)",
-      "link": "https://arabia135.fi/ajankohtaista/tapahtumat/taman-haluan-sanoa-2026/",
-      "iso": "2026-05-19T09:51:00+00:00",
-      "src": "Arabia 135"
-    },
-    {
-      "title": "Pyöräbaana | Helsinki kysyi asukkaiden mielipidettä ja toimi juuri päinvastoin - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zN2FxZWlOOUNEZFM3MW9KTUUxS3QwVVVCTEZoLUNMaGFzN1pBQzlyZ2V4LTZnV0paa3JCVE4wbnVQcUNBNG4xR0NoQ2ZncWxTX1NMWk8xbzl1SDhxOEE?oc=5",
-      "iso": "2026-05-17T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Arabia",
-      "link": "https://kauppakeskusarabia.fi/opiskelijaedut/",
-      "iso": "2026-05-13T07:46:49+00:00",
-      "src": "Kauppakeskus Arabia"
     }
   ]
 }
