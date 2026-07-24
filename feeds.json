@@ -7,6 +7,7 @@
   { "name": "Arabia 135",  "url": "https://arabia135.fi/ajankohtaista/tapahtumat/feed/" },
   { "name": "Arabia 135",  "url": "https://arabia135.fi/ajankohtaista/tiedotteet-artikkelit/feed/" },
   { "name": "Arabian Palvelu",  "url": "https://arabianpalvelu.fi/tiedotteet/feed" },
+  { "name": "Annalan huvila",  "url": "https://amoisio-a11y.github.io/lightspeed-cache-rss-example/feed-annala.xml" },
   { "name": "Google News",  "url": "https://news.google.com/rss/search?q=Arabianranta+OR+Arabianrannan+OR+Arabianrannassa+OR+Arabianrantaan+OR+Arabianrantaa+OR+Arabianrannasta+OR+Arabianrannalla&hl=fi-FI&gl=FI&ceid=FI:fi" },
   { "name": "Google News",  "url": "https://news.google.com/rss/search?q=Helsinki+AND+(Toukola+OR+Toukolan+OR+Toukolassa+OR+Toukolaan+OR+Toukolaa+OR+Toukolasta+OR+Toukolalla)&hl=fi-FI&gl=FI&ceid=FI:fi" },  
   { "name": "Google News",  "url": "https://news.google.com/rss/search?q=Helsinki+AND+(Kumpula+OR+Kumpulan+OR+Kumpulassa+OR+Kumpulaan+OR+Kumpulaa+OR+Kumpulasta+OR+Kumpulalla)&hl=fi-FI&gl=FI&ceid=FI:fi" },  
