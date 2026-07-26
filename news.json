@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-26T16:13:24.915374+00:00",
+  "generated": "2026-07-26T17:15:37.857852+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -38,12 +38,6 @@
       "link": "https://hyotykasviyhdistys.fi/tapahtumat/huvilansunnuntaikahvila/",
       "iso": "2026-07-24T12:20:35+00:00",
       "src": "Annalan huvila"
-    },
-    {
-      "title": "Mai Kivelä: \"Uutta rakentamistapaa voisi testata Arabianrannassa\" - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBZkhncWk5WEs1dGxRSW5JM3VGTHVYbnRBN0s5d0pXVU9zeVdPREZMNVNja0NQMklUM2J0SXR0ZmxXMlNqQlVELUpoU2djZ2xpYXFBMWRYVUwwRzJqQVJmXw?oc=5",
-      "iso": "2026-07-20T06:25:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Kääntöpaikan syksyn kurssiohjelma on julkaistu!",
@@ -181,6 +175,12 @@
       "title": "Kumpulan kampukselle neljä Business Finlandin Näytönpaikka -rahoitusta - University of Helsinki",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRUJjVTc0dUNsMkJtVVpVbFRoN3pLTldtVUVJVGlkNFJIQWRrNV85SmxKV0ZRWDM0SV82NkdtWU14ZVlxSnlvUWxmUXhiUXVpZ0h4MnpvekwtSE1NNmF6eXNhczFaRHE2bFZKNTZicl9oMDZsUVp1TEpIZjJWNDUwanFKZDJQYVc4d2NFLWg1blV4dlQxVmtITldfVWNzSVY0d1VHckNsbTF6T08taWZIdW93TG16YW1TcHNIRFBvSjRtbl8zNVc2aEExTTBESEs3QURTNGd6QjJ3dUdKYngwYkpPajQ5NDNZ?oc=5",
       "iso": "2026-06-01T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Helsinki | Asukas havahtui savunhajuun, kun joku poltti koulukirjoja talon vieressä - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tUy1XNHU4SEg2bG54cGRrQzdveVd4bF9OcHRZV3VRSWZpNzhCSHBaczhQbXZhWFBqVWhUcWx4NTZIRjFJZi1WY1g5S3dsdmhnOHp4dTZxa01hQlQ0RGc?oc=5",
+      "iso": "2026-05-30T07:00:00+00:00",
       "src": "Google News"
     }
   ]
