@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T01:01:32.146156+00:00",
+  "generated": "2026-07-31T04:36:43.093820+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -8,6 +8,12 @@
       "link": "https://kaantopaikka.fi/kaantopaikan-galleriatilan-elokuu-kuvituksia-lapsille-ja-aikuisille/",
       "iso": "2026-07-30T17:13:33+00:00",
       "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Asuminen | Vain joka kolmas suostuu ottamaan vastaan Helsingin tarjoaman vuokra-asunnon - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OUlo2dFFrRnhGTXkzcEZQWk1QTG1pQVIxbVlsd251Ml9xUnJuLTBHNlkyVWg3by1GMmxWbXN4S3UxLVVlczNIYXlZQ0RicmoxSkNvWlRjcDk1cFBfX0E?oc=5",
+      "iso": "2026-07-29T05:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "IKEBANA – JAPANILAINEN KUKKIENASETTELUN TAIDE",
@@ -176,12 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb3QxajFzWG9PNXZzWUJjWHRvZXRiNlpaQlRQSG02NElLOGprSlhkMWctTXh5RFhfNThtelJ3STBrWjRseUJENnNPbEpJMXVVQ1k2cDBsWENRWDBYN1Zpel9SMl81TG12NDVEUklYN0JRbmxkOUFqVTlwLXZJWEdwQUU3QjAzcDdrT1RnZHBDUENrYlBMcWxF?oc=5",
       "iso": "2026-06-10T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Artovan kotikaupunkipolut New European Bauhaus – tapahtuman avaus 9.6.",
-      "link": "https://kaupunginosat.fi/artova/artovan-kotikaupunkipolut-new-european-bauhaus-tapahtuman-avaus-9-6/",
-      "iso": "2026-06-09T09:39:59+00:00",
-      "src": "Kaupunginosat.fi"
     }
   ]
 }
