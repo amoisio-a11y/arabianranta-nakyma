@@ -313,7 +313,7 @@ async function fetchTrams(){
    2) HÄIRIÖTIEDOTTEET
    Suodatetaan linjojen shortName perusteella: "6", "6H", "8", "8T"
    ============================================================ */
-const ALERT_LINES = new Set(["6","6H","8","8T"]);
+const ALERT_LINES = new Set(["6","6H","8","8T", "8H"]);
 
 const ALERT_QUERY = `{
   alerts(severityLevel: [WARNING, SEVERE, INFO]) {
