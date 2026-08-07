@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-07T03:37:57.544657+00:00",
+  "generated": "2026-08-07T05:22:32.153621+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -8,12 +8,6 @@
       "link": "https://kaantopaikka.fi/kaantopaikan-galleriatilan-elokuu-kuvituksia-lapsille-ja-aikuisille/",
       "iso": "2026-07-30T17:13:33+00:00",
       "src": "Kylätalo Kääntöpaikka"
-    },
-    {
-      "title": "Asuminen | Vain joka kolmas suostuu ottamaan vastaan Helsingin tarjoaman vuokra-asunnon - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OUlo2dFFrRnhGTXkzcEZQWk1QTG1pQVIxbVlsd251Ml9xUnJuLTBHNlkyVWg3by1GMmxWbXN4S3UxLVVlczNIYXlZQ0RicmoxSkNvWlRjcDk1cFBfX0E?oc=5",
-      "iso": "2026-07-29T05:00:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "IKEBANA – JAPANILAINEN KUKKIENASETTELUN TAIDE",
@@ -52,7 +46,7 @@
       "src": "Annalan huvila"
     },
     {
-      "title": "Mai Kivelä: \"Uutta rakentamistapaa voisi testata Arabianrannassa\" - Helsingin Uutiset",
+      "title": "Mai Kivelä: \"Uutta rakentamistapaa voisi testata Arabianrannassa\" - helsinginuutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBZkhncWk5WEs1dGxRSW5JM3VGTHVYbnRBN0s5d0pXVU9zeVdPREZMNVNja0NQMklUM2J0SXR0ZmxXMlNqQlVELUpoU2djZ2xpYXFBMWRYVUwwRzJqQVJmXw?oc=5",
       "iso": "2026-07-20T07:00:00+00:00",
       "src": "Google News"
@@ -182,6 +176,12 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tUy1XNHU4SEg2bG54cGRrQzdveVd4bF9OcHRZV3VRSWZpNzhCSHBaczhQbXZhWFBqVWhUcWx4NTZIRjFJZi1WY1g5S3dsdmhnOHp4dTZxa01hQlQ0RGc?oc=5",
       "iso": "2026-05-30T07:00:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Lähde mukaan Artovan kotikaupunkipolkujen työpajoihin ja kierroksille!",
+      "link": "https://kaupunginosat.fi/artova/lahde-mukaan-artovan-kotikaupunkipolkujen-tyopajoihin-ja-kierroksille/",
+      "iso": "2026-05-28T17:24:14+00:00",
+      "src": "Kaupunginosat.fi"
     }
   ]
 }
