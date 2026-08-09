@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-09T11:42:40.265451+00:00",
+  "generated": "2026-08-09T12:02:38.978252+00:00",
   "count": 30,
-  "failed": 5,
+  "failed": 2,
   "items": [
     {
       "title": "IKEBANA – JAPANILAINEN KUKKIENASETTELUN TAIDE",
@@ -40,6 +40,12 @@
       "src": "Annalan huvila"
     },
     {
+      "title": "Mai Kivelä: \"Uutta rakentamistapaa voisi testata Arabianrannassa\" - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBZkhncWk5WEs1dGxRSW5JM3VGTHVYbnRBN0s5d0pXVU9zeVdPREZMNVNja0NQMklUM2J0SXR0ZmxXMlNqQlVELUpoU2djZ2xpYXFBMWRYVUwwRzJqQVJmXw?oc=5",
+      "iso": "2026-07-20T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Fragile – Arabian Taideosastoyhdistyksen kerrostumia – näyttely",
       "link": "https://arabia135.fi/ajankohtaista/tapahtumat/fragile-arabian-taideosastoyhdistyksen-kerrostumia-nayttely/",
       "iso": "2026-07-03T07:50:07+00:00",
@@ -50,6 +56,12 @@
       "link": "https://kauppakeskusarabia.fi/mehilaiset-kesatoissa-arabian-katolla/",
       "iso": "2026-06-25T08:18:58+00:00",
       "src": "Kauppakeskus Arabia"
+    },
+    {
+      "title": "Käänne Helsingissä: Töölönlahdella ja Arabianrannassa aiempia kesiä vähemmän valkoposkihanhia - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xa1hCb2VMZi1WelFOWnFvazlGNXM2SU51cFZNT2pVdVQ5NUFxZl9jSngzc09URkRxY0N1eTl5WnZvUQ?oc=5",
+      "iso": "2026-06-25T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Marjamyyntiä Arabiassa",
@@ -76,10 +88,34 @@
       "src": "Kaupunginosat.fi"
     },
     {
+      "title": "Teemaopastukset Kumpulan puutarhassa - University of Helsinki",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb3QxajFzWG9PNXZzWUJjWHRvZXRiNlpaQlRQSG02NElLOGprSlhkMWctTXh5RFhfNThtelJ3STBrWjRseUJENnNPbEpJMXVVQ1k2cDBsWENRWDBYN1Zpel9SMl81TG12NDVEUklYN0JRbmxkOUFqVTlwLXZJWEdwQUU3QjAzcDdrT1RnZHBDUENrYlBMcWxF?oc=5",
+      "iso": "2026-06-10T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Artovan kotikaupunkipolut New European Bauhaus – tapahtuman avaus 9.6.",
       "link": "https://kaupunginosat.fi/artova/artovan-kotikaupunkipolut-new-european-bauhaus-tapahtuman-avaus-9-6/",
       "iso": "2026-06-09T09:39:59+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Puutarhapiirustus – Luovaa luonnostelua Kumpulassa - University of Helsinki",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS1RnaDZ0MU4yVWxxSmpDNXA0aFFHeHloNmkwVmFPVGFEdHowNXNpelM3RnlHWlJzUkNUQTkwNjR3aU44SFIydlR4MmRScE9HQy1GdzZKaFNlOUVwenZfb082blB0OGt6RlliRHRHdTVVV0ZuNkhsaVRGX25oSF83LWRmcTFRLXFDZUd0cGoyRnVaLW5wRmozejYyT2dKcF9SM2NkWVF2bw?oc=5",
+      "iso": "2026-06-09T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Kumpulan kampukselle neljä Business Finlandin Näytönpaikka -rahoitusta - University of Helsinki",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRUJjVTc0dUNsMkJtVVpVbFRoN3pLTldtVUVJVGlkNFJIQWRrNV85SmxKV0ZRWDM0SV82NkdtWU14ZVlxSnlvUWxmUXhiUXVpZ0h4MnpvekwtSE1NNmF6eXNhczFaRHE2bFZKNTZicl9oMDZsUVp1TEpIZjJWNDUwanFKZDJQYVc4d2NFLWg1blV4dlQxVmtITldfVWNzSVY0d1VHckNsbTF6T08taWZIdW93TG16YW1TcHNIRFBvSjRtbl8zNVc2aEExTTBESEs3QURTNGd6QjJ3dUdKYngwYkpPajQ5NDNZ?oc=5",
+      "iso": "2026-06-01T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Helsinki | Asukas havahtui savunhajuun, kun joku poltti koulukirjoja talon vieressä - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tUy1XNHU4SEg2bG54cGRrQzdveVd4bF9OcHRZV3VRSWZpNzhCSHBaczhQbXZhWFBqVWhUcWx4NTZIRjFJZi1WY1g5S3dsdmhnOHp4dTZxa01hQlQ0RGc?oc=5",
+      "iso": "2026-05-30T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Lähde mukaan Artovan kotikaupunkipolkujen työpajoihin ja kierroksille!",
@@ -100,10 +136,28 @@
       "src": "Kaupunginosat.fi"
     },
     {
+      "title": "Pyöräbaana | Arabianrannan baanan tieltä raivatut puut luvataan palauttaa puistoon - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kMTFHRjFqdmpKV09YaFI4T0RuazJEMzFjRTh4dHFDNDFaeWlHMnJXb0tQREpMMUoxOTkxSTNGcUV4MkdmNFZsSlpSZ0NDRkdRckZJMWc3YnZxaVQ2emc?oc=5",
+      "iso": "2026-05-28T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Luonto | Karannut mehiläisparvi yritettiin pelastaa Kumpulassa kesken kirppispäivän - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tbEFoRGxDYjZFUGdDc2w0V3NzeGFFMjhqZFpHMnh5R1QwMi1MSHJjd2pieEpmVG10UTkyN3FsaE8zcEhoZGtRc3ZwelQwaVZIX3MxSUhwcXoxejh4RXc?oc=5",
+      "iso": "2026-05-23T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Tämän haluan sanoa (2026)",
       "link": "https://arabia135.fi/ajankohtaista/tapahtumat/taman-haluan-sanoa-2026/",
       "iso": "2026-05-19T09:51:00+00:00",
       "src": "Arabia 135"
+    },
+    {
+      "title": "Pyöräbaana | Helsinki kysyi asukkaiden mielipidettä ja toimi juuri päinvastoin - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zN2FxZWlOOUNEZFM3MW9KTUUxS3QwVVVCTEZoLUNMaGFzN1pBQzlyZ2V4LTZnV0paa3JCVE4wbnVQcUNBNG4xR0NoQ2ZncWxTX1NMWk8xbzl1SDhxOEE?oc=5",
+      "iso": "2026-05-17T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Arabia",
@@ -127,60 +181,6 @@
       "title": "Tekniikan museon kantaverkkokokoelma kertoo Suomen sähkönsiirron kantaverkon rakentamisesta ja ylläpidosta",
       "link": "https://www.tekniikanmuseo.fi/tekniikan-museon-kantaverkkokokoelma-kertoo-suomen-sahkonsiirron-kantaverkon-rakentamisesta-ja-yllapidosta/",
       "iso": "2026-04-29T09:23:15+00:00",
-      "src": "Tekniikan museo"
-    },
-    {
-      "title": "Vastuullisuuspäivä lähelläsi la 9.5.",
-      "link": "https://kauppakeskusarabia.fi/vastuullisuuspaiva-lahellasi-la-9-5/",
-      "iso": "2026-04-22T09:56:53+00:00",
-      "src": "Kauppakeskus Arabia"
-    },
-    {
-      "title": "Lymyääkö laatikossasi lahjoitettavaa – SPR- Kontti keräys Arabiassa 2.5.",
-      "link": "https://kauppakeskusarabia.fi/spr-kontti-kerays-arabiassa-12-4/",
-      "iso": "2026-04-20T09:50:16+00:00",
-      "src": "Kauppakeskus Arabia"
-    },
-    {
-      "title": "Artova ry:n kevätkokous 29.4.2026!",
-      "link": "https://kaupunginosat.fi/artova/artova-ryn-kevatkokous-29-4-2026/",
-      "iso": "2026-04-16T08:53:56+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Varaa paikkasi Torikannen kirppikselle la 9.5.",
-      "link": "https://kauppakeskusarabia.fi/varaa-paikkasi-torikannen-kirppikselle-la-9-5/",
-      "iso": "2026-04-13T10:00:00+00:00",
-      "src": "Kauppakeskus Arabia"
-    },
-    {
-      "title": "OmaStadi-äänestys on päättynyt! Käy katsomassa pääsikö suosikkisi jatkoon?",
-      "link": "https://kaupunginosat.fi/artova/omastadi-aanestys-on-paattynyt-kay-katsomassa-paasiko-suosikkisi-jatkoon/",
-      "iso": "2026-04-10T14:39:31+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Lördagis päivätanssit Tekniikan museolla lauantaina 11.4.",
-      "link": "https://kaupunginosat.fi/artova/lordagis-paivatanssit-tekniikan-museolla-lauantaina-11-4/",
-      "iso": "2026-04-07T18:09:22+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Artovan ja Arabianrannan kirjaston yhteinen lukupiiri jälleen toukokuussa 6.5.",
-      "link": "https://kaupunginosat.fi/artova/artovan-ja-arabianrannan-kirjaston-yhteinen-lukupiiri-jalleen-toukokuussa-6-5/",
-      "iso": "2026-04-07T16:41:15+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Pinta – taide- ja sisustustapahtuma Energiasalissa toukokuussa!",
-      "link": "https://kaupunginosat.fi/artova/pinta-taide-ja-sisustustapahtuma-energiasalissa-toukokuussa/",
-      "iso": "2026-04-07T16:34:25+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Tekniikan alan museopäivä 2026",
-      "link": "https://www.tekniikanmuseo.fi/tekniikan-alan-museopaiva-2026/",
-      "iso": "2026-03-31T11:46:38+00:00",
       "src": "Tekniikan museo"
     }
   ]
