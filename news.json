@@ -1,19 +1,19 @@
 {
-  "generated": "2026-08-13T21:11:57.608165+00:00",
+  "generated": "2026-08-13T22:02:04.121057+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "SYYSTORI",
+      "link": "https://hyotykasviyhdistys.fi/tapahtumat/syystori-6/",
+      "iso": "2026-08-13T21:33:00+00:00",
+      "src": "Annalan huvila"
+    },
     {
       "title": "Taiteiden yö saapuu Arabia135-kortteliin torstaina 20.8.",
       "link": "https://arabia135.fi/ajankohtaista/tapahtumat/taiteiden-yo-2026/",
       "iso": "2026-08-13T12:05:15+00:00",
       "src": "Arabia 135"
-    },
-    {
-      "title": "ANNALAN SYYSTORI",
-      "link": "https://hyotykasviyhdistys.fi/tapahtumat/annalan-syystori/",
-      "iso": "2026-08-12T14:11:30+00:00",
-      "src": "Annalan huvila"
     },
     {
       "title": "Helsingin Jyryn liikuntapäivä Pornaistenniemellä 28.8.",
@@ -70,7 +70,7 @@
       "src": "Annalan huvila"
     },
     {
-      "title": "Mai Kivelä: \"Uutta rakentamistapaa voisi testata Arabianrannassa\" - helsinginuutiset.fi",
+      "title": "Mai Kivelä: \"Uutta rakentamistapaa voisi testata Arabianrannassa\" - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBZkhncWk5WEs1dGxRSW5JM3VGTHVYbnRBN0s5d0pXVU9zeVdPREZMNVNja0NQMklUM2J0SXR0ZmxXMlNqQlVELUpoU2djZ2xpYXFBMWRYVUwwRzJqQVJmXw?oc=5",
       "iso": "2026-07-20T07:00:00+00:00",
       "src": "Google News"
