@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-15T11:42:13.738678+00:00",
+  "generated": "2026-08-15T11:56:25.373187+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 3,
   "items": [
     {
       "title": "SYYSTORI",
@@ -70,12 +70,6 @@
       "src": "Annalan huvila"
     },
     {
-      "title": "Mai Kivelä: \"Uutta rakentamistapaa voisi testata Arabianrannassa\" - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBZkhncWk5WEs1dGxRSW5JM3VGTHVYbnRBN0s5d0pXVU9zeVdPREZMNVNja0NQMklUM2J0SXR0ZmxXMlNqQlVELUpoU2djZ2xpYXFBMWRYVUwwRzJqQVJmXw?oc=5",
-      "iso": "2026-07-20T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Kääntöpaikan syksyn kurssiohjelma on julkaistu!",
       "link": "https://kaantopaikka.fi/kaantopaikan-syksyn-kurssiohjelma-on-julkaistu/",
       "iso": "2026-07-11T18:50:52+00:00",
@@ -92,12 +86,6 @@
       "link": "https://kauppakeskusarabia.fi/mehilaiset-kesatoissa-arabian-katolla/",
       "iso": "2026-06-25T08:18:58+00:00",
       "src": "Kauppakeskus Arabia"
-    },
-    {
-      "title": "Käänne Helsingissä: Töölönlahdella ja Arabianrannassa aiempia kesiä vähemmän valkoposkihanhia - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xa1hCb2VMZi1WelFOWnFvazlGNXM2SU51cFZNT2pVdVQ5NUFxZl9jSngzc09URkRxY0N1eTl5WnZvUQ?oc=5",
-      "iso": "2026-06-25T07:00:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Marjamyyntiä Arabiassa",
@@ -178,10 +166,22 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Puutarhapiirustus – Luovaa luonnostelua Kumpulassa - University of Helsinki",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS1RnaDZ0MU4yVWxxSmpDNXA0aFFHeHloNmkwVmFPVGFEdHowNXNpelM3RnlHWlJzUkNUQTkwNjR3aU44SFIydlR4MmRScE9HQy1GdzZKaFNlOUVwenZfb082blB0OGt6RlliRHRHdTVVV0ZuNkhsaVRGX25oSF83LWRmcTFRLXFDZUd0cGoyRnVaLW5wRmozejYyT2dKcF9SM2NkWVF2bw?oc=5",
-      "iso": "2026-06-09T07:00:00+00:00",
-      "src": "Google News"
+      "title": "Lähde mukaan Artovan kotikaupunkipolkujen työpajoihin ja kierroksille!",
+      "link": "https://kaupunginosat.fi/artova/lahde-mukaan-artovan-kotikaupunkipolkujen-tyopajoihin-ja-kierroksille/",
+      "iso": "2026-05-28T17:24:14+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Arabianbaana hyväksyttiin kaupunkiympäristölautakunnassa yksimielisesti muutosesityksin",
+      "link": "https://kaupunginosat.fi/artova/arabianbaana-hyvaksyttiin-kaupunkiymparistolautakunnassa-yksimielisesti-muutosesityksin/",
+      "iso": "2026-05-28T17:07:10+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Vuokraa Artovan soutuvene!",
+      "link": "https://kaupunginosat.fi/artova/vuokraa-artovan-soutuvene-2/",
+      "iso": "2026-05-28T09:26:36+00:00",
+      "src": "Kaupunginosat.fi"
     }
   ]
 }
