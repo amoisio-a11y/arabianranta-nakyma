@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-16T07:44:30.333701+00:00",
+  "generated": "2026-08-16T08:00:55.697784+00:00",
   "count": 30,
-  "failed": 3,
+  "failed": 0,
   "items": [
     {
       "title": "Lippakiskan Taiteiden yö 20.8.",
@@ -76,6 +76,12 @@
       "src": "Annalan huvila"
     },
     {
+      "title": "Mai Kivelä: \"Uutta rakentamistapaa voisi testata Arabianrannassa\" - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBZkhncWk5WEs1dGxRSW5JM3VGTHVYbnRBN0s5d0pXVU9zeVdPREZMNVNja0NQMklUM2J0SXR0ZmxXMlNqQlVELUpoU2djZ2xpYXFBMWRYVUwwRzJqQVJmXw?oc=5",
+      "iso": "2026-07-20T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Kääntöpaikan syksyn kurssiohjelma on julkaistu!",
       "link": "https://kaantopaikka.fi/kaantopaikan-syksyn-kurssiohjelma-on-julkaistu/",
       "iso": "2026-07-11T18:50:52+00:00",
@@ -92,6 +98,12 @@
       "link": "https://kauppakeskusarabia.fi/mehilaiset-kesatoissa-arabian-katolla/",
       "iso": "2026-06-25T08:18:58+00:00",
       "src": "Kauppakeskus Arabia"
+    },
+    {
+      "title": "Käänne Helsingissä: Töölönlahdella ja Arabianrannassa aiempia kesiä vähemmän valkoposkihanhia - yle.fi",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xa1hCb2VMZi1WelFOWnFvazlGNXM2SU51cFZNT2pVdVQ5NUFxZl9jSngzc09URkRxY0N1eTl5WnZvUQ?oc=5",
+      "iso": "2026-06-25T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Marjamyyntiä Arabiassa",
@@ -166,22 +178,10 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Artovan kotikaupunkipolut New European Bauhaus – tapahtuman avaus 9.6.",
-      "link": "https://kaupunginosat.fi/artova/artovan-kotikaupunkipolut-new-european-bauhaus-tapahtuman-avaus-9-6/",
-      "iso": "2026-06-09T09:39:59+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Lähde mukaan Artovan kotikaupunkipolkujen työpajoihin ja kierroksille!",
-      "link": "https://kaupunginosat.fi/artova/lahde-mukaan-artovan-kotikaupunkipolkujen-tyopajoihin-ja-kierroksille/",
-      "iso": "2026-05-28T17:24:14+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Arabianbaana hyväksyttiin kaupunkiympäristölautakunnassa yksimielisesti muutosesityksin",
-      "link": "https://kaupunginosat.fi/artova/arabianbaana-hyvaksyttiin-kaupunkiymparistolautakunnassa-yksimielisesti-muutosesityksin/",
-      "iso": "2026-05-28T17:07:10+00:00",
-      "src": "Kaupunginosat.fi"
+      "title": "Teemaopastukset Kumpulan puutarhassa - helsinki.fi",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb3QxajFzWG9PNXZzWUJjWHRvZXRiNlpaQlRQSG02NElLOGprSlhkMWctTXh5RFhfNThtelJ3STBrWjRseUJENnNPbEpJMXVVQ1k2cDBsWENRWDBYN1Zpel9SMl81TG12NDVEUklYN0JRbmxkOUFqVTlwLXZJWEdwQUU3QjAzcDdrT1RnZHBDUENrYlBMcWxF?oc=5",
+      "iso": "2026-06-10T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
