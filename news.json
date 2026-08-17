@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-17T04:10:05.221835+00:00",
+  "generated": "2026-08-17T04:55:48.180377+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Viimeisten kesäiltojen tunnelma kohdillaan – Kumpulan maauimala kutsuu kuutamouinnille | Paikalliset - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44N0lHMFNFOHZKYkNQVl93TGZlQUtqSDBvRjdZRU1rU0plYS1UY09qOWVlaW9zSWF4bVFpV05WajJMVHRvT3dSbFhOcjFDYzRKdldtZ2s3LXJPVGhGcnJUeg?oc=5",
+      "iso": "2026-08-15T13:00:00+00:00",
+      "src": "Google News"
+    },
     {
       "title": "Lippakiskan Taiteiden yö 20.8.",
       "link": "https://kaantopaikka.fi/lippakiskan-taiteiden-yo-20-8/",
@@ -176,12 +182,6 @@
       "link": "https://kaupunginosat.fi/artova/pro-vanhakaupunki-ry-on-ottanut-kantaa-alueen-suunnitelmiin/",
       "iso": "2026-06-12T08:21:12+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Teemaopastukset Kumpulan puutarhassa - University of Helsinki",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb3QxajFzWG9PNXZzWUJjWHRvZXRiNlpaQlRQSG02NElLOGprSlhkMWctTXh5RFhfNThtelJ3STBrWjRseUJENnNPbEpJMXVVQ1k2cDBsWENRWDBYN1Zpel9SMl81TG12NDVEUklYN0JRbmxkOUFqVTlwLXZJWEdwQUU3QjAzcDdrT1RnZHBDUENrYlBMcWxF?oc=5",
-      "iso": "2026-06-10T07:00:00+00:00",
-      "src": "Google News"
     }
   ]
 }
