@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T08:05:01.453103+00:00",
+  "generated": "2026-08-21T08:56:03.588801+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -86,6 +86,12 @@
       "link": "https://hyotykasviyhdistys.fi/tapahtumat/tiistaiteemat-2026/",
       "iso": "2026-07-24T12:20:35+00:00",
       "src": "Annalan huvila"
+    },
+    {
+      "title": "Mai Kivelä: \"Uutta rakentamistapaa voisi testata Arabianrannassa\" - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBZkhncWk5WEs1dGxRSW5JM3VGTHVYbnRBN0s5d0pXVU9zeVdPREZMNVNja0NQMklUM2J0SXR0ZmxXMlNqQlVELUpoU2djZ2xpYXFBMWRYVUwwRzJqQVJmXw?oc=5",
+      "iso": "2026-07-20T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Kääntöpaikan syksyn kurssiohjelma on julkaistu!",
@@ -176,12 +182,6 @@
       "link": "https://kaantopaikka.fi/maksuton-aamupuuro-lippakiskalla-joka-kesatiistai/",
       "iso": "2026-06-15T15:04:06+00:00",
       "src": "Kylätalo Kääntöpaikka"
-    },
-    {
-      "title": "Miniloma Arabiassa: Designin ystävän päiväretki Arabiaan – seitsemän kohdetta",
-      "link": "https://arabia135.fi/ajankohtaista/tiedotteet-artikkelit/miniloma-arabiassa/",
-      "iso": "2026-06-15T10:37:42+00:00",
-      "src": "Arabia 135"
     }
   ]
 }
