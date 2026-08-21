@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T15:46:37.441885+00:00",
+  "generated": "2026-08-21T16:22:19.589272+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -82,6 +82,12 @@
       "src": "Annalan huvila"
     },
     {
+      "title": "Arabianrannan Lohikäärme | Osta lippu helposti - Tiketti",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTW1qSDhQZ1VhOWs5cUxmQ0NJWVNBUFhhS0RKRm8yRVJ3aC1xbEI0V2x0WXlybnBaZm90dGJzclZ3MU5pbWRuc3JEZV90N0xyWjFkanZjM0IwV3R3S0dDQUpZT2ItLUtDOHlSdDNCTGJIMHJ3Z25LRFp4RUtrS2ktZnh1ZWpoWHFx?oc=5",
+      "iso": "2026-07-22T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Kääntöpaikan syksyn kurssiohjelma on julkaistu!",
       "link": "https://kaantopaikka.fi/kaantopaikan-syksyn-kurssiohjelma-on-julkaistu/",
       "iso": "2026-07-11T18:50:52+00:00",
@@ -100,7 +106,7 @@
       "src": "Kauppakeskus Arabia"
     },
     {
-      "title": "Käänne Helsingissä: Töölönlahdella ja Arabianrannassa aiempia kesiä vähemmän valkoposkihanhia - yle.fi",
+      "title": "Käänne Helsingissä: Töölönlahdella ja Arabianrannassa aiempia kesiä vähemmän valkoposkihanhia - Yle",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xa1hCb2VMZi1WelFOWnFvazlGNXM2SU51cFZNT2pVdVQ5NUFxZl9jSngzc09URkRxY0N1eTl5WnZvUQ?oc=5",
       "iso": "2026-06-25T07:00:00+00:00",
       "src": "Google News"
@@ -176,12 +182,6 @@
       "link": "https://arabia135.fi/ajankohtaista/tiedotteet-artikkelit/miniloma-arabiassa/",
       "iso": "2026-06-15T10:37:42+00:00",
       "src": "Arabia 135"
-    },
-    {
-      "title": "Pro Vanhakaupunki ry on ottanut kantaa alueen suunnitelmiin!",
-      "link": "https://kaupunginosat.fi/artova/pro-vanhakaupunki-ry-on-ottanut-kantaa-alueen-suunnitelmiin/",
-      "iso": "2026-06-12T08:21:12+00:00",
-      "src": "Kaupunginosat.fi"
     }
   ]
 }
