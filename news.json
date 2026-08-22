@@ -1,20 +1,8 @@
 {
-  "generated": "2026-08-22T03:13:13.170197+00:00",
+  "generated": "2026-08-22T03:56:57.063281+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 3,
   "items": [
-    {
-      "title": "Matematiikka- ja ohjelmointikerhoja Kumpulassa ja etänä syksyllä 2026 | Tiedekasvatus | Helsingin yliopisto - University of Helsinki",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTTA3RTl3N3B6OGRkcVhsYnNlbWRNVlUxWEx1SG9DN1NLbktQck5EdFIwZlJXQjhtalZmM2ZTaExOZjNRTFVUUmZwSmJqNmM3UTc1LUhRM0xCZXhCYlVhLW10a21FM3FuTGc3OVNldk1GQmYyREFaRlpMUEZqOXk5T3FKaTkyVFo3N194eUVsWjk1aEUzWEZodWdkMnF3NklWeGRPZko2cWg0bGkzX3Y0YmVxU0VjS1packZpVTktYkhLOTNaaTY4S1oyeFNGQm0zbUNHcW9ObEZmYjQ5OUE?oc=5",
-      "iso": "2026-08-20T06:46:31+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Viimeisten kesäiltojen tunnelma kohdillaan – Kumpulan maauimala kutsuu kuutamouinnille - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44N0lHMFNFOHZKYkNQVl93TGZlQUtqSDBvRjdZRU1rU0plYS1UY09qOWVlaW9zSWF4bVFpV05WajJMVHRvT3dSbFhOcjFDYzRKdldtZ2s3LXJPVGhGcnJUeg?oc=5",
-      "iso": "2026-08-15T13:00:00+00:00",
-      "src": "Google News"
-    },
     {
       "title": "Lippakiskan Taiteiden yö 20.8.",
       "link": "https://kaantopaikka.fi/lippakiskan-taiteiden-yo-20-8/",
@@ -82,12 +70,6 @@
       "src": "Annalan huvila"
     },
     {
-      "title": "Arabianrannan Lohikäärme | Osta lippu helposti - Tiketti",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTW1qSDhQZ1VhOWs5cUxmQ0NJWVNBUFhhS0RKRm8yRVJ3aC1xbEI0V2x0WXlybnBaZm90dGJzclZ3MU5pbWRuc3JEZV90N0xyWjFkanZjM0IwV3R3S0dDQUpZT2ItLUtDOHlSdDNCTGJIMHJ3Z25LRFp4RUtrS2ktZnh1ZWpoWHFx?oc=5",
-      "iso": "2026-07-22T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Kääntöpaikan syksyn kurssiohjelma on julkaistu!",
       "link": "https://kaantopaikka.fi/kaantopaikan-syksyn-kurssiohjelma-on-julkaistu/",
       "iso": "2026-07-11T18:50:52+00:00",
@@ -104,18 +86,6 @@
       "link": "https://kauppakeskusarabia.fi/mehilaiset-kesatoissa-arabian-katolla/",
       "iso": "2026-06-25T08:18:58+00:00",
       "src": "Kauppakeskus Arabia"
-    },
-    {
-      "title": "Käänne Helsingissä: Töölönlahdella ja Arabianrannassa aiempia kesiä vähemmän valkoposkihanhia - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xa1hCb2VMZi1WelFOWnFvazlGNXM2SU51cFZNT2pVdVQ5NUFxZl9jSngzc09URkRxY0N1eTl5WnZvUQ?oc=5",
-      "iso": "2026-06-25T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Helsinki | Kaupunki myy Villa Novillaa huutokaupalla, lähtöhinta nolla euroa - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45Tk5IUTIzOFF6X3FUMmRtMHd3MFBQQXFOeV9wLXNfVVZRRjZVN3NsYlBSSnRiZGswZ2V0TlVNSnVfbFpKeWFXTFA3OGxibnBqb0pZNDRzSTRiLVBpVnc?oc=5",
-      "iso": "2026-06-24T07:00:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Marjamyyntiä Arabiassa",
@@ -182,6 +152,36 @@
       "link": "https://arabia135.fi/ajankohtaista/tiedotteet-artikkelit/miniloma-arabiassa/",
       "iso": "2026-06-15T10:37:42+00:00",
       "src": "Arabia 135"
+    },
+    {
+      "title": "Pro Vanhakaupunki ry on ottanut kantaa alueen suunnitelmiin!",
+      "link": "https://kaupunginosat.fi/artova/pro-vanhakaupunki-ry-on-ottanut-kantaa-alueen-suunnitelmiin/",
+      "iso": "2026-06-12T08:21:12+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Artovan kotikaupunkipolut New European Bauhaus – tapahtuman avaus 9.6.",
+      "link": "https://kaupunginosat.fi/artova/artovan-kotikaupunkipolut-new-european-bauhaus-tapahtuman-avaus-9-6/",
+      "iso": "2026-06-09T09:39:59+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Lähde mukaan Artovan kotikaupunkipolkujen työpajoihin ja kierroksille!",
+      "link": "https://kaupunginosat.fi/artova/lahde-mukaan-artovan-kotikaupunkipolkujen-tyopajoihin-ja-kierroksille/",
+      "iso": "2026-05-28T17:24:14+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Arabianbaana hyväksyttiin kaupunkiympäristölautakunnassa yksimielisesti muutosesityksin",
+      "link": "https://kaupunginosat.fi/artova/arabianbaana-hyvaksyttiin-kaupunkiymparistolautakunnassa-yksimielisesti-muutosesityksin/",
+      "iso": "2026-05-28T17:07:10+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Vuokraa Artovan soutuvene!",
+      "link": "https://kaupunginosat.fi/artova/vuokraa-artovan-soutuvene-2/",
+      "iso": "2026-05-28T09:26:36+00:00",
+      "src": "Kaupunginosat.fi"
     }
   ]
 }
