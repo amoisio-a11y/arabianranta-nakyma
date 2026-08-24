@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T07:43:37.174917+00:00",
+  "generated": "2026-08-24T08:26:30.375237+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -118,6 +118,12 @@
       "src": "Kauppakeskus Arabia"
     },
     {
+      "title": "Käänne Helsingissä: Töölönlahdella ja Arabianrannassa aiempia kesiä vähemmän valkoposkihanhia - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xa1hCb2VMZi1WelFOWnFvazlGNXM2SU51cFZNT2pVdVQ5NUFxZl9jSngzc09URkRxY0N1eTl5WnZvUQ?oc=5",
+      "iso": "2026-06-25T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Helsinki | Kaupunki myy Villa Novillaa huutokaupalla, lähtöhinta nolla euroa - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45Tk5IUTIzOFF6X3FUMmRtMHd3MFBQQXFOeV9wLXNfVVZRRjZVN3NsYlBSSnRiZGswZ2V0TlVNSnVfbFpKeWFXTFA3OGxibnBqb0pZNDRzSTRiLVBpVnc?oc=5",
       "iso": "2026-06-24T07:00:00+00:00",
@@ -175,12 +181,6 @@
       "title": "Vohvelikiska tarjoaa kesätyön 20 nuorelle",
       "link": "https://kaantopaikka.fi/vohvelikiska-tarjoaa-kesatyon-20-nuorelle/",
       "iso": "2026-06-15T15:35:21+00:00",
-      "src": "Kylätalo Kääntöpaikka"
-    },
-    {
-      "title": "Kesätiistaisin aamupuuro katetaan Lippakiskalle",
-      "link": "https://kaantopaikka.fi/maksuton-aamupuuro-lippakiskalla-joka-kesatiistai/",
-      "iso": "2026-06-15T15:04:06+00:00",
       "src": "Kylätalo Kääntöpaikka"
     }
   ]
