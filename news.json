@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-25T08:07:51.470516+00:00",
+  "generated": "2026-08-25T08:57:50.348038+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Arabianrannan taide – kotikaupunkipolkujen kierrokset!",
+      "link": "https://kaupunginosat.fi/artova/arabianrannan-taide-kotikaupunkipolkujen-kierrokset/",
+      "iso": "2026-08-25T08:24:25+00:00",
+      "src": "Kaupunginosat.fi"
+    },
     {
       "title": "Helsinki | Kumpulan maauimala sulkeutui jälleen jo elokuussa, sillä työntekijöitä tarvitaan muualla - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3S3B5c080QmlYM2czUWU3T29CUnRaQm45aV9WX1hydFh4UlVPblRmUUVfbS1FSGdlSDJ6bVIyZFRMaUwwZHppNjNBSUZKTUZhaTltUTJoa1JSRDA2elE?oc=5",
@@ -175,12 +181,6 @@
       "title": "Liity mukaan Kääntöpaikan kävelijöihin!",
       "link": "https://kaantopaikka.fi/liity-mukaan-kaantopaikan-kavelijoihin/",
       "iso": "2026-06-15T16:33:33+00:00",
-      "src": "Kylätalo Kääntöpaikka"
-    },
-    {
-      "title": "Kesän Leikkitreffit keskiviikkoisin Intiankadun Lippakiskalla",
-      "link": "https://kaantopaikka.fi/leikkitreffit-joka-kesakeskiviikko-intiankadun-lippakiskalla/",
-      "iso": "2026-06-15T16:01:53+00:00",
       "src": "Kylätalo Kääntöpaikka"
     }
   ]
