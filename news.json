@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T04:51:37.286623+00:00",
+  "generated": "2026-08-25T05:24:26.917446+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -136,6 +136,12 @@
       "src": "Google News"
     },
     {
+      "title": "Miapetra Kumpula-​Natri jättää eduskunnan – ei asetukaan ehdolle Helsin­gistä - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14S2Q5MWdhUGk2QlFHT1FXUHhPa3RqLXdzUUNVYTBUa0dndzE5VkZYTGprT2xQQk9XMmUteDZPT29WdnVBcC1fSklPYUVEWVYxcFZXUUdYXzFWeGs4OE55cw?oc=5",
+      "iso": "2026-06-23T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Marjamyyntiä Arabiassa",
       "link": "https://kauppakeskusarabia.fi/marjamyynti-arabiassa/",
       "iso": "2026-06-22T11:53:14+00:00",
@@ -175,12 +181,6 @@
       "title": "Kesän Leikkitreffit keskiviikkoisin Intiankadun Lippakiskalla",
       "link": "https://kaantopaikka.fi/leikkitreffit-joka-kesakeskiviikko-intiankadun-lippakiskalla/",
       "iso": "2026-06-15T16:01:53+00:00",
-      "src": "Kylätalo Kääntöpaikka"
-    },
-    {
-      "title": "Lippakiskan Sunnuntaikirppikset käynnistyvät 14.6.",
-      "link": "https://kaantopaikka.fi/lippakiskan-sunnuntaikirppikset-kaynnistyvat-14-6/",
-      "iso": "2026-06-15T15:46:43+00:00",
       "src": "Kylätalo Kääntöpaikka"
     }
   ]
