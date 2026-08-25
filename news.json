@@ -1,8 +1,26 @@
 {
-  "generated": "2026-08-25T13:33:05.750817+00:00",
+  "generated": "2026-08-25T14:26:28.074463+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "KASVIVÄRJÄYSKURSSI",
+      "link": "https://hyotykasviyhdistys.fi/tapahtumat/kasvivarjayskurssi-2/",
+      "iso": "2026-08-25T13:39:29+00:00",
+      "src": "Annalan huvila"
+    },
+    {
+      "title": "ALKU&JUURI PUOTI SIJAITSEE PASILASSA",
+      "link": "https://hyotykasviyhdistys.fi/tapahtumat/puoti-aukeaa-uudessa-osoitteessa/",
+      "iso": "2026-08-25T13:39:29+00:00",
+      "src": "Annalan huvila"
+    },
+    {
+      "title": "SIENIVILJELY DEMO VIIMEISESSÄ TIISTAITEEMASSA",
+      "link": "https://hyotykasviyhdistys.fi/tapahtumat/sieniviljely-demo-viimeisessa-tiistaiteemassa/",
+      "iso": "2026-08-25T13:39:29+00:00",
+      "src": "Annalan huvila"
+    },
     {
       "title": "100 vuotta jazzia Suomessa!",
       "link": "https://kaupunginosat.fi/artova/100-vuotta-jazzia-suomessa/",
@@ -164,24 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14S2Q5MWdhUGk2QlFHT1FXUHhPa3RqLXdzUUNVYTBUa0dndzE5VkZYTGprT2xQQk9XMmUteDZPT29WdnVBcC1fSklPYUVEWVYxcFZXUUdYXzFWeGs4OE55cw?oc=5",
       "iso": "2026-06-23T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Marjamyyntiä Arabiassa",
-      "link": "https://kauppakeskusarabia.fi/marjamyynti-arabiassa/",
-      "iso": "2026-06-22T11:53:14+00:00",
-      "src": "Kauppakeskus Arabia"
-    },
-    {
-      "title": "Uudistunut Robert’s Coffee on jälleen auki!",
-      "link": "https://kauppakeskusarabia.fi/roberts-coffee-uudistuu-suljettuna-remontin-vuoksi-29-6-alkaen/",
-      "iso": "2026-06-22T11:16:41+00:00",
-      "src": "Kauppakeskus Arabia"
-    },
-    {
-      "title": "Lippakiskan Kirjamessut 14.–16.8.",
-      "link": "https://kaantopaikka.fi/lippakiskan-kirjamessut-14-16-8/",
-      "iso": "2026-06-16T07:41:02+00:00",
-      "src": "Kylätalo Kääntöpaikka"
     }
   ]
 }
