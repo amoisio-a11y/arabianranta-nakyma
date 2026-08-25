@@ -1,8 +1,20 @@
 {
-  "generated": "2026-08-25T10:47:53.509527+00:00",
+  "generated": "2026-08-25T11:19:43.349225+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "100 vuotta jazzia Suomessa!",
+      "link": "https://kaupunginosat.fi/artova/100-vuotta-jazzia-suomessa/",
+      "iso": "2026-08-25T11:14:15+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Kaupunki muuttuu kohtaamisten näyttämöksi – Helsinki Design Week 2026!",
+      "link": "https://kaupunginosat.fi/artova/kaupunki-muuttuu-kohtaamisten-nayttamoksi-helsinki-design-week-2026/",
+      "iso": "2026-08-25T10:50:32+00:00",
+      "src": "Kaupunginosat.fi"
+    },
     {
       "title": "Rauhankuoro kutsuu kaikkia halukkaita mukaan laulamaan!",
       "link": "https://kaupunginosat.fi/artova/rauhankuoro-kutsuu-kaikkia-halukkaita-mukaan-laulamaan/",
@@ -10,7 +22,7 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Arabianrannan taide – kotikaupunkipolkujen kierrokset!",
+      "title": "Arabianrannan taide – kotikaupunkipolkujen kierros 27.8.",
       "link": "https://kaupunginosat.fi/artova/arabianrannan-taide-kotikaupunkipolkujen-kierrokset/",
       "iso": "2026-08-25T08:24:25+00:00",
       "src": "Kaupunginosat.fi"
@@ -169,18 +181,6 @@
       "title": "Lippakiskan Kirjamessut 14.–16.8.",
       "link": "https://kaantopaikka.fi/lippakiskan-kirjamessut-14-16-8/",
       "iso": "2026-06-16T07:41:02+00:00",
-      "src": "Kylätalo Kääntöpaikka"
-    },
-    {
-      "title": "Avoimet breikkitreenit joka maanantai Kääntöpaikalla",
-      "link": "https://kaantopaikka.fi/avoimet-breikkitreenit-joka-maanantai-kaantopaikalla/",
-      "iso": "2026-06-15T19:39:37+00:00",
-      "src": "Kylätalo Kääntöpaikka"
-    },
-    {
-      "title": "Tule kielikahvilaan harjoittelemaan suomen kieltä kanssamme!",
-      "link": "https://kaantopaikka.fi/tule-kielikahvilaan-harjoittelemaan-suomen-kielta-kanssamme/",
-      "iso": "2026-06-15T18:52:03+00:00",
       "src": "Kylätalo Kääntöpaikka"
     }
   ]
