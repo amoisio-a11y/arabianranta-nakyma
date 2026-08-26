@@ -1,14 +1,8 @@
 {
-  "generated": "2026-08-26T16:35:45.869786+00:00",
+  "generated": "2026-08-26T18:24:10.386625+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 1,
   "items": [
-    {
-      "title": "Tired Unclella tapahtuu 🎶🍺",
-      "link": "https://arabia135.fi/ajankohtaista/tapahtumat/tired-unclella-tapahtuu-%f0%9f%8e%b6%f0%9f%8d%ba/",
-      "iso": "2026-08-26T10:42:24+00:00",
-      "src": "Arabia 135"
-    },
     {
       "title": "Levysoittorasia: Musikaalinen aikamatka menneisyyteen",
       "link": "https://www.tekniikanmuseo.fi/levysoittorasia-musikaalinen-aikamatka-menneisyyteen/",
@@ -68,12 +62,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3S3B5c080QmlYM2czUWU3T29CUnRaQm45aV9WX1hydFh4UlVPblRmUUVfbS1FSGdlSDJ6bVIyZFRMaUwwZHppNjNBSUZKTUZhaTltUTJoa1JSRDA2elE?oc=5",
       "iso": "2026-08-24T10:15:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Ambien Bar Arabialaiset 29.8.2026",
-      "link": "https://arabia135.fi/ajankohtaista/tapahtumat/ambien-bar-arabialaiset-29-8-2026/",
-      "iso": "2026-08-24T05:43:46+00:00",
-      "src": "Arabia 135"
     },
     {
       "title": "Matematiikka- ja ohjelmointikerhoja Kumpulassa ja etänä syksyllä 2026 | Tiedekasvatus | Helsingin yliopisto - University of Helsinki",
@@ -178,10 +166,22 @@
       "src": "Kylätalo Kääntöpaikka"
     },
     {
-      "title": "Fragile – Arabian Taideosastoyhdistyksen kerrostumia – näyttely",
-      "link": "https://arabia135.fi/ajankohtaista/tapahtumat/fragile-arabian-taideosastoyhdistyksen-kerrostumia-nayttely/",
-      "iso": "2026-07-03T07:50:07+00:00",
-      "src": "Arabia 135"
+      "title": "Kasvimatka Kumpulassa: Kalliovuorilta Japaniin yhdessä päivässä - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xMDZkYlFEMUkwU0ZZV2RkYjZUWWM1MXhITk9LNUVOWjlVZV9sTmo4VnVQYTJsamZEQzkxRHJuN25mSmhHei1mY1dzc2Z1ZE1pNTRMdklXT0NvU2VlRlp1dg?oc=5",
+      "iso": "2026-06-27T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Mehiläiset kesätöissä Arabian katolla",
+      "link": "https://kauppakeskusarabia.fi/mehilaiset-kesatoissa-arabian-katolla/",
+      "iso": "2026-06-25T08:18:58+00:00",
+      "src": "Kauppakeskus Arabia"
+    },
+    {
+      "title": "Käänne Helsingissä: Töölönlahdella ja Arabianrannassa aiempia kesiä vähemmän valkoposkihanhia - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xa1hCb2VMZi1WelFOWnFvazlGNXM2SU51cFZNT2pVdVQ5NUFxZl9jSngzc09URkRxY0N1eTl5WnZvUQ?oc=5",
+      "iso": "2026-06-25T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
