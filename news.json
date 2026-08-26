@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-26T05:03:00.027691+00:00",
+  "generated": "2026-08-26T05:48:18.095706+00:00",
   "count": 30,
-  "failed": 1,
+  "failed": 0,
   "items": [
     {
       "title": "Syyspidot la 5.9. klo 11-15",
@@ -67,6 +67,12 @@
       "title": "Matematiikka- ja ohjelmointikerhoja Kumpulassa ja etänä syksyllä 2026 | Tiedekasvatus | Helsingin yliopisto - University of Helsinki",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTTA3RTl3N3B6OGRkcVhsYnNlbWRNVlUxWEx1SG9DN1NLbktQck5EdFIwZlJXQjhtalZmM2ZTaExOZjNRTFVUUmZwSmJqNmM3UTc1LUhRM0xCZXhCYlVhLW10a21FM3FuTGc3OVNldk1GQmYyREFaRlpMUEZqOXk5T3FKaTkyVFo3N194eUVsWjk1aEUzWEZodWdkMnF3NklWeGRPZko2cWg0bGkzX3Y0YmVxU0VjS1packZpVTktYkhLOTNaaTY4S1oyeFNGQm0zbUNHcW9ObEZmYjQ5OUE?oc=5",
       "iso": "2026-08-20T06:46:31+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Oikeus | Pikavippiriitoja on tuomioistuimissa liikaa, myöntää viraston ylijohtaja - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DVE9TajB3MVRJbzFUR01QYl90bVBuUWJhbEEzMEI5ZTEtN3ZRWDlhSUh3dUs2SWtxcUFfbkM5R0IzbG5Gc0FfMWxRX2FFVzBwN3c4b2FuMm9sRTloMEE?oc=5",
+      "iso": "2026-08-20T06:30:00+00:00",
       "src": "Google News"
     },
     {
@@ -176,12 +182,6 @@
       "link": "https://kauppakeskusarabia.fi/mehilaiset-kesatoissa-arabian-katolla/",
       "iso": "2026-06-25T08:18:58+00:00",
       "src": "Kauppakeskus Arabia"
-    },
-    {
-      "title": "Käänne Helsingissä: Töölönlahdella ja Arabianrannassa aiempia kesiä vähemmän valkoposkihanhia - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xa1hCb2VMZi1WelFOWnFvazlGNXM2SU51cFZNT2pVdVQ5NUFxZl9jSngzc09URkRxY0N1eTl5WnZvUQ?oc=5",
-      "iso": "2026-06-25T07:00:00+00:00",
-      "src": "Google News"
     }
   ]
 }
