@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-26T03:31:01.782432+00:00",
+  "generated": "2026-08-26T04:22:35.725697+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Syyspidot la 5.9. klo 11-15",
+      "link": "https://kauppakeskusarabia.fi/syyspidot-kutsuvat-koko-perheen-arabiaan-5-9/",
+      "iso": "2026-08-26T04:07:05+00:00",
+      "src": "Kauppakeskus Arabia"
+    },
     {
       "title": "KASVIVÄRJÄYSKURSSI",
       "link": "https://hyotykasviyhdistys.fi/tapahtumat/kasvivarjayskurssi-2/",
@@ -160,6 +166,12 @@
       "src": "Arabia 135"
     },
     {
+      "title": "Kasvimatka Kumpulassa: Kalliovuorilta Japaniin yhdessä päivässä - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xMDZkYlFEMUkwU0ZZV2RkYjZUWWM1MXhITk9LNUVOWjlVZV9sTmo4VnVQYTJsamZEQzkxRHJuN25mSmhHei1mY1dzc2Z1ZE1pNTRMdklXT0NvU2VlRlp1dg?oc=5",
+      "iso": "2026-06-27T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Mehiläiset kesätöissä Arabian katolla",
       "link": "https://kauppakeskusarabia.fi/mehilaiset-kesatoissa-arabian-katolla/",
       "iso": "2026-06-25T08:18:58+00:00",
@@ -169,18 +181,6 @@
       "title": "Käänne Helsingissä: Töölönlahdella ja Arabianrannassa aiempia kesiä vähemmän valkoposkihanhia - Yle",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xa1hCb2VMZi1WelFOWnFvazlGNXM2SU51cFZNT2pVdVQ5NUFxZl9jSngzc09URkRxY0N1eTl5WnZvUQ?oc=5",
       "iso": "2026-06-25T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Helsinki | Kaupunki myy Villa Novillaa huutokaupalla, lähtöhinta nolla euroa - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45Tk5IUTIzOFF6X3FUMmRtMHd3MFBQQXFOeV9wLXNfVVZRRjZVN3NsYlBSSnRiZGswZ2V0TlVNSnVfbFpKeWFXTFA3OGxibnBqb0pZNDRzSTRiLVBpVnc?oc=5",
-      "iso": "2026-06-24T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Miapetra Kumpula-​Natri jättää eduskunnan – ei asetukaan ehdolle Helsin­gistä - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14S2Q5MWdhUGk2QlFHT1FXUHhPa3RqLXdzUUNVYTBUa0dndzE5VkZYTGprT2xQQk9XMmUteDZPT29WdnVBcC1fSklPYUVEWVYxcFZXUUdYXzFWeGs4OE55cw?oc=5",
-      "iso": "2026-06-23T07:00:00+00:00",
       "src": "Google News"
     }
   ]
