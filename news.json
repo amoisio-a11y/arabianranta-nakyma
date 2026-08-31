@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-31T06:13:11.817034+00:00",
+  "generated": "2026-08-31T13:47:25.950221+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Arabian Palvelu Oy: Tiedote 2/2026",
+      "link": "https://arabianpalvelu.fi/arabian-palvelu-oy-tiedote-2-2026/",
+      "iso": "2026-08-31T11:23:23+00:00",
+      "src": "Arabian Palvelu"
+    },
     {
       "title": "Meidän Arabia – keskustelutilaisuus",
       "link": "https://arabia135.fi/ajankohtaista/tapahtumat/meidan-arabia-keskustelutilaisuus/",
@@ -176,12 +182,6 @@
       "link": "https://kaantopaikka.fi/kaantopaikan-syksyn-kurssiohjelma-on-julkaistu/",
       "iso": "2026-07-11T18:50:52+00:00",
       "src": "Kylätalo Kääntöpaikka"
-    },
-    {
-      "title": "Fragile – Arabian Taideosastoyhdistyksen kerrostumia – näyttely",
-      "link": "https://arabia135.fi/ajankohtaista/tapahtumat/fragile-arabian-taideosastoyhdistyksen-kerrostumia-nayttely/",
-      "iso": "2026-07-03T07:50:07+00:00",
-      "src": "Arabia 135"
     }
   ]
 }
