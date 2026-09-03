@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-03T09:20:06.586495+00:00",
+  "generated": "2026-09-03T13:42:30.907955+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 1,
   "items": [
     {
       "title": "Arabian Palvelu Oy: Tiedote 2/2026",
@@ -148,12 +148,6 @@
       "src": "Annalan huvila"
     },
     {
-      "title": "Arabianrannan Lohikäärme | Osta lippu helposti - Tiketti",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTW1qSDhQZ1VhOWs5cUxmQ0NJWVNBUFhhS0RKRm8yRVJ3aC1xbEI0V2x0WXlybnBaZm90dGJzclZ3MU5pbWRuc3JEZV90N0xyWjFkanZjM0IwV3R3S0dDQUpZT2ItLUtDOHlSdDNCTGJIMHJ3Z25LRFp4RUtrS2ktZnh1ZWpoWHFx?oc=5",
-      "iso": "2026-07-22T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Juhli Suomen luontoa Kumpulassa – Ilmaispäivänä luvassa opastuksia ja elämyskävelyitä - University of Helsinki",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRDNIV0dRY3didURYbWs4YTRjenlzLTJ1WWtzQi1HajlOTlhXZGNJU0psM040a2tVczY2MDd3eklZZ2VCUUZLejdnbGJYSEFZdXd6UzZzbzY1NTJ1a2laSVA4ZldLUmVpVDFFYWJ5TV9tSmxlMmttX203S3podDYtMEMySjQwVlFQMzF6WjN2dHItVmRGanpPZHdXX3MyNjd5OTlma1o5ODNvck9iUXE3RElHN3NrczRuYkhwVEJ3TzF0STI5b2RZUW9zQU9LWHJUbktHWVpR?oc=5",
       "iso": "2026-07-22T07:00:00+00:00",
@@ -170,6 +164,12 @@
       "link": "https://arabia135.fi/ajankohtaista/tapahtumat/fragile-arabian-taideosastoyhdistyksen-kerrostumia-nayttely/",
       "iso": "2026-07-03T07:50:07+00:00",
       "src": "Arabia 135"
+    },
+    {
+      "title": "Kasvimatka Kumpulassa: Kalliovuorilta Japaniin yhdessä päivässä - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xMDZkYlFEMUkwU0ZZV2RkYjZUWWM1MXhITk9LNUVOWjlVZV9sTmo4VnVQYTJsamZEQzkxRHJuN25mSmhHei1mY1dzc2Z1ZE1pNTRMdklXT0NvU2VlRlp1dg?oc=5",
+      "iso": "2026-06-27T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Mehiläiset kesätöissä Arabian katolla",
