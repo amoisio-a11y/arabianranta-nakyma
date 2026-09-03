@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-03T04:48:56.310746+00:00",
+  "generated": "2026-09-03T09:20:06.586495+00:00",
   "count": 30,
-  "failed": 3,
+  "failed": 0,
   "items": [
     {
       "title": "Arabian Palvelu Oy: Tiedote 2/2026",
@@ -76,16 +76,22 @@
       "src": "Kaupunginosat.fi"
     },
     {
+      "title": "Helsinki | Kumpulan maauimala sulkeutui jälleen jo elokuussa, sillä työntekijöitä tarvitaan muualla - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3S3B5c080QmlYM2czUWU3T29CUnRaQm45aV9WX1hydFh4UlVPblRmUUVfbS1FSGdlSDJ6bVIyZFRMaUwwZHppNjNBSUZKTUZhaTltUTJoa1JSRDA2elE?oc=5",
+      "iso": "2026-08-24T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Ambien Bar Arabialaiset 29.8.2026",
       "link": "https://arabia135.fi/ajankohtaista/tapahtumat/ambien-bar-arabialaiset-29-8-2026/",
       "iso": "2026-08-24T05:43:46+00:00",
       "src": "Arabia 135"
     },
     {
-      "title": "Lippakiskan Taiteiden yö 20.8.",
-      "link": "https://kaantopaikka.fi/lippakiskan-taiteiden-yo-20-8/",
-      "iso": "2026-08-15T12:29:29+00:00",
-      "src": "Kylätalo Kääntöpaikka"
+      "title": "Matematiikka- ja ohjelmointikerhoja Kumpulassa ja etänä syksyllä 2026 | Tiedekasvatus | Helsingin yliopisto - University of Helsinki",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTTA3RTl3N3B6OGRkcVhsYnNlbWRNVlUxWEx1SG9DN1NLbktQck5EdFIwZlJXQjhtalZmM2ZTaExOZjNRTFVUUmZwSmJqNmM3UTc1LUhRM0xCZXhCYlVhLW10a21FM3FuTGc3OVNldk1GQmYyREFaRlpMUEZqOXk5T3FKaTkyVFo3N194eUVsWjk1aEUzWEZodWdkMnF3NklWeGRPZko2cWg0bGkzX3Y0YmVxU0VjS1packZpVTktYkhLOTNaaTY4S1oyeFNGQm0zbUNHcW9ObEZmYjQ5OUE?oc=5",
+      "iso": "2026-08-20T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "SYYSTORI",
@@ -118,12 +124,6 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Kääntöpaikan Galleriatilan elokuu: ”Kuvituksia lapsille ja aikuisille”",
-      "link": "https://kaantopaikka.fi/kaantopaikan-galleriatilan-elokuu-kuvituksia-lapsille-ja-aikuisille/",
-      "iso": "2026-07-30T17:13:33+00:00",
-      "src": "Kylätalo Kääntöpaikka"
-    },
-    {
       "title": "IKEBANA – JAPANILAINEN KUKKIENASETTELUN TAIDE",
       "link": "https://hyotykasviyhdistys.fi/tapahtumat/ikebanajapanilainenkukkienasetteluntaide/",
       "iso": "2026-07-24T12:20:35+00:00",
@@ -148,6 +148,18 @@
       "src": "Annalan huvila"
     },
     {
+      "title": "Arabianrannan Lohikäärme | Osta lippu helposti - Tiketti",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTW1qSDhQZ1VhOWs5cUxmQ0NJWVNBUFhhS0RKRm8yRVJ3aC1xbEI0V2x0WXlybnBaZm90dGJzclZ3MU5pbWRuc3JEZV90N0xyWjFkanZjM0IwV3R3S0dDQUpZT2ItLUtDOHlSdDNCTGJIMHJ3Z25LRFp4RUtrS2ktZnh1ZWpoWHFx?oc=5",
+      "iso": "2026-07-22T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Juhli Suomen luontoa Kumpulassa – Ilmaispäivänä luvassa opastuksia ja elämyskävelyitä - University of Helsinki",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRDNIV0dRY3didURYbWs4YTRjenlzLTJ1WWtzQi1HajlOTlhXZGNJU0psM040a2tVczY2MDd3eklZZ2VCUUZLejdnbGJYSEFZdXd6UzZzbzY1NTJ1a2laSVA4ZldLUmVpVDFFYWJ5TV9tSmxlMmttX203S3podDYtMEMySjQwVlFQMzF6WjN2dHItVmRGanpPZHdXX3MyNjd5OTlma1o5ODNvck9iUXE3RElHN3NrczRuYkhwVEJ3TzF0STI5b2RZUW9zQU9LWHJUbktHWVpR?oc=5",
+      "iso": "2026-07-22T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Kääntöpaikan syksyn kurssiohjelma on julkaistu!",
       "link": "https://kaantopaikka.fi/kaantopaikan-syksyn-kurssiohjelma-on-julkaistu/",
       "iso": "2026-07-11T18:50:52+00:00",
@@ -166,22 +178,10 @@
       "src": "Kauppakeskus Arabia"
     },
     {
-      "title": "Marjamyyntiä Arabiassa",
-      "link": "https://kauppakeskusarabia.fi/marjamyynti-arabiassa/",
-      "iso": "2026-06-22T11:53:14+00:00",
-      "src": "Kauppakeskus Arabia"
-    },
-    {
-      "title": "Uudistunut Robert’s Coffee on jälleen auki!",
-      "link": "https://kauppakeskusarabia.fi/roberts-coffee-uudistuu-suljettuna-remontin-vuoksi-29-6-alkaen/",
-      "iso": "2026-06-22T11:16:41+00:00",
-      "src": "Kauppakeskus Arabia"
-    },
-    {
-      "title": "Lippakiskan Kirjamessut 14.–16.8.",
-      "link": "https://kaantopaikka.fi/lippakiskan-kirjamessut-14-16-8/",
-      "iso": "2026-06-16T07:41:02+00:00",
-      "src": "Kylätalo Kääntöpaikka"
+      "title": "Helsinki | Kaupunki myy Villa Novillaa huutokaupalla, lähtöhinta nolla euroa - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45Tk5IUTIzOFF6X3FUMmRtMHd3MFBQQXFOeV9wLXNfVVZRRjZVN3NsYlBSSnRiZGswZ2V0TlVNSnVfbFpKeWFXTFA3OGxibnBqb0pZNDRzSTRiLVBpVnc?oc=5",
+      "iso": "2026-06-24T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
