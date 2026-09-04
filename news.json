@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-03T22:04:03.723042+00:00",
+  "generated": "2026-09-04T00:03:35.253353+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Kääntöpaikan Galleriatilan syyskuu: ”Toinen maailma”",
+      "link": "https://kaantopaikka.fi/kaantopaikan-galleriatilan-syyskuu-toinen-maailma/",
+      "iso": "2026-09-03T22:40:28+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
     {
       "title": "Arabian Palvelu Oy: Tiedote 2/2026",
       "link": "https://arabianpalvelu.fi/arabian-palvelu-oy-tiedote-2-2026/",
@@ -176,12 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xMDZkYlFEMUkwU0ZZV2RkYjZUWWM1MXhITk9LNUVOWjlVZV9sTmo4VnVQYTJsamZEQzkxRHJuN25mSmhHei1mY1dzc2Z1ZE1pNTRMdklXT0NvU2VlRlp1dg?oc=5",
       "iso": "2026-06-27T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Mehiläiset kesätöissä Arabian katolla",
-      "link": "https://kauppakeskusarabia.fi/mehilaiset-kesatoissa-arabian-katolla/",
-      "iso": "2026-06-25T08:18:58+00:00",
-      "src": "Kauppakeskus Arabia"
     }
   ]
 }
