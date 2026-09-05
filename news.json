@@ -1,8 +1,20 @@
 {
-  "generated": "2026-09-05T05:14:05.126670+00:00",
+  "generated": "2026-09-05T09:06:34.188612+00:00",
   "count": 30,
-  "failed": 2,
+  "failed": 0,
   "items": [
+    {
+      "title": "Kääntöpaikan Galleriatilan syyskuu: ”Toinen maailma”",
+      "link": "https://kaantopaikka.fi/kaantopaikan-galleriatilan-syyskuu-toinen-maailma/",
+      "iso": "2026-09-03T22:40:28+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Arabian Palvelu Oy: Tiedote 2/2026",
+      "link": "https://arabianpalvelu.fi/arabian-palvelu-oy-tiedote-2-2026/",
+      "iso": "2026-08-31T11:23:23+00:00",
+      "src": "Arabian Palvelu"
+    },
     {
       "title": "Meidän Arabia – keskustelutilaisuus",
       "link": "https://arabia135.fi/ajankohtaista/tapahtumat/meidan-arabia-keskustelutilaisuus/",
@@ -154,6 +166,12 @@
       "src": "Google News"
     },
     {
+      "title": "Kääntöpaikan syksyn kurssiohjelma on julkaistu!",
+      "link": "https://kaantopaikka.fi/kaantopaikan-syksyn-kurssiohjelma-on-julkaistu/",
+      "iso": "2026-07-11T18:50:52+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
       "title": "Fragile – Arabian Taideosastoyhdistyksen kerrostumia – näyttely",
       "link": "https://arabia135.fi/ajankohtaista/tapahtumat/fragile-arabian-taideosastoyhdistyksen-kerrostumia-nayttely/",
       "iso": "2026-07-03T07:50:07+00:00",
@@ -163,24 +181,6 @@
       "title": "Kasvimatka Kumpulassa: Kalliovuorilta Japaniin yhdessä päivässä - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xMDZkYlFEMUkwU0ZZV2RkYjZUWWM1MXhITk9LNUVOWjlVZV9sTmo4VnVQYTJsamZEQzkxRHJuN25mSmhHei1mY1dzc2Z1ZE1pNTRMdklXT0NvU2VlRlp1dg?oc=5",
       "iso": "2026-06-27T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Mehiläiset kesätöissä Arabian katolla",
-      "link": "https://kauppakeskusarabia.fi/mehilaiset-kesatoissa-arabian-katolla/",
-      "iso": "2026-06-25T08:18:58+00:00",
-      "src": "Kauppakeskus Arabia"
-    },
-    {
-      "title": "Käänne Helsingissä: Töölönlahdella ja Arabianrannassa aiempia kesiä vähemmän valkoposkihanhia - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xa1hCb2VMZi1WelFOWnFvazlGNXM2SU51cFZNT2pVdVQ5NUFxZl9jSngzc09URkRxY0N1eTl5WnZvUQ?oc=5",
-      "iso": "2026-06-25T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Helsinki | Kaupunki myy Villa Novillaa huutokaupalla, lähtöhinta nolla euroa - hs.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45Tk5IUTIzOFF6X3FUMmRtMHd3MFBQQXFOeV9wLXNfVVZRRjZVN3NsYlBSSnRiZGswZ2V0TlVNSnVfbFpKeWFXTFA3OGxibnBqb0pZNDRzSTRiLVBpVnc?oc=5",
-      "iso": "2026-06-24T07:00:00+00:00",
       "src": "Google News"
     }
   ]
