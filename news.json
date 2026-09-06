@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-06T13:27:21.363919+00:00",
+  "generated": "2026-09-06T16:23:26.523661+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Artovan kannanotto: Arabianbaanasta kevytbaana",
+      "link": "https://kaupunginosat.fi/artova/artovan-kannanotto-arabianbaanasta-kevytbaana/",
+      "iso": "2026-09-06T14:36:05+00:00",
+      "src": "Kaupunginosat.fi"
+    },
     {
       "title": "Kääntöpaikan Galleriatilan syyskuu: ”Toinen maailma”",
       "link": "https://kaantopaikka.fi/kaantopaikan-galleriatilan-syyskuu-toinen-maailma/",
@@ -154,7 +160,7 @@
       "src": "Annalan huvila"
     },
     {
-      "title": "Arabianrannan Lohikäärme | Osta lippu helposti - Tiketti",
+      "title": "Arabianrannan Lohikäärme | Osta lippu helposti - tiketti.fi",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTW1qSDhQZ1VhOWs5cUxmQ0NJWVNBUFhhS0RKRm8yRVJ3aC1xbEI0V2x0WXlybnBaZm90dGJzclZ3MU5pbWRuc3JEZV90N0xyWjFkanZjM0IwV3R3S0dDQUpZT2ItLUtDOHlSdDNCTGJIMHJ3Z25LRFp4RUtrS2ktZnh1ZWpoWHFx?oc=5",
       "iso": "2026-07-22T07:00:00+00:00",
       "src": "Google News"
@@ -176,12 +182,6 @@
       "link": "https://kaantopaikka.fi/kaantopaikan-syksyn-kurssiohjelma-on-julkaistu/",
       "iso": "2026-07-11T18:50:52+00:00",
       "src": "Kylätalo Kääntöpaikka"
-    },
-    {
-      "title": "Fragile – Arabian Taideosastoyhdistyksen kerrostumia – näyttely",
-      "link": "https://arabia135.fi/ajankohtaista/tapahtumat/fragile-arabian-taideosastoyhdistyksen-kerrostumia-nayttely/",
-      "iso": "2026-07-03T07:50:07+00:00",
-      "src": "Arabia 135"
     }
   ]
 }
