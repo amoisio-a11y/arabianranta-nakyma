@@ -1,25 +1,13 @@
 {
-  "generated": "2026-09-07T00:07:35.005740+00:00",
+  "generated": "2026-09-07T04:34:34.007674+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 2,
   "items": [
     {
       "title": "Artovan kannanotto: Arabianbaanasta kevytbaana",
       "link": "https://kaupunginosat.fi/artova/artovan-kannanotto-arabianbaanasta-kevytbaana/",
       "iso": "2026-09-06T14:36:05+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Kääntöpaikan Galleriatilan syyskuu: ”Toinen maailma”",
-      "link": "https://kaantopaikka.fi/kaantopaikan-galleriatilan-syyskuu-toinen-maailma/",
-      "iso": "2026-09-03T22:40:28+00:00",
-      "src": "Kylätalo Kääntöpaikka"
-    },
-    {
-      "title": "Arabian Palvelu Oy: Tiedote 2/2026",
-      "link": "https://arabianpalvelu.fi/arabian-palvelu-oy-tiedote-2-2026/",
-      "iso": "2026-08-31T11:23:23+00:00",
-      "src": "Arabian Palvelu"
     },
     {
       "title": "Meidän Arabia – keskustelutilaisuus",
@@ -94,7 +82,7 @@
       "src": "Arabia 135"
     },
     {
-      "title": "Matematiikka- ja ohjelmointikerhoja Kumpulassa ja etänä syksyllä 2026 | Tiedekasvatus | Helsingin yliopisto - University of Helsinki",
+      "title": "Matematiikka- ja ohjelmointikerhoja Kumpulassa ja etänä syksyllä 2026 | Tiedekasvatus | Helsingin yliopisto - helsinki.fi",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTTA3RTl3N3B6OGRkcVhsYnNlbWRNVlUxWEx1SG9DN1NLbktQck5EdFIwZlJXQjhtalZmM2ZTaExOZjNRTFVUUmZwSmJqNmM3UTc1LUhRM0xCZXhCYlVhLW10a21FM3FuTGc3OVNldk1GQmYyREFaRlpMUEZqOXk5T3FKaTkyVFo3N194eUVsWjk1aEUzWEZodWdkMnF3NklWeGRPZko2cWg0bGkzX3Y0YmVxU0VjS1packZpVTktYkhLOTNaaTY4S1oyeFNGQm0zbUNHcW9ObEZmYjQ5OUE?oc=5",
       "iso": "2026-08-20T07:00:00+00:00",
       "src": "Google News"
@@ -166,7 +154,7 @@
       "src": "Google News"
     },
     {
-      "title": "Juhli Suomen luontoa Kumpulassa – Ilmaispäivänä luvassa opastuksia ja elämyskävelyitä - University of Helsinki",
+      "title": "Juhli Suomen luontoa Kumpulassa – Ilmaispäivänä luvassa opastuksia ja elämyskävelyitä - helsinki.fi",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRDNIV0dRY3didURYbWs4YTRjenlzLTJ1WWtzQi1HajlOTlhXZGNJU0psM040a2tVczY2MDd3eklZZ2VCUUZLejdnbGJYSEFZdXd6UzZzbzY1NTJ1a2laSVA4ZldLUmVpVDFFYWJ5TV9tSmxlMmttX203S3podDYtMEMySjQwVlFQMzF6WjN2dHItVmRGanpPZHdXX3MyNjd5OTlma1o5ODNvck9iUXE3RElHN3NrczRuYkhwVEJ3TzF0STI5b2RZUW9zQU9LWHJUbktHWVpR?oc=5",
       "iso": "2026-07-22T07:00:00+00:00",
       "src": "Google News"
@@ -178,10 +166,22 @@
       "src": "Google News"
     },
     {
-      "title": "Kääntöpaikan syksyn kurssiohjelma on julkaistu!",
-      "link": "https://kaantopaikka.fi/kaantopaikan-syksyn-kurssiohjelma-on-julkaistu/",
-      "iso": "2026-07-11T18:50:52+00:00",
-      "src": "Kylätalo Kääntöpaikka"
+      "title": "Fragile – Arabian Taideosastoyhdistyksen kerrostumia – näyttely",
+      "link": "https://arabia135.fi/ajankohtaista/tapahtumat/fragile-arabian-taideosastoyhdistyksen-kerrostumia-nayttely/",
+      "iso": "2026-07-03T07:50:07+00:00",
+      "src": "Arabia 135"
+    },
+    {
+      "title": "Kasvimatka Kumpulassa: Kalliovuorilta Japaniin yhdessä päivässä - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xMDZkYlFEMUkwU0ZZV2RkYjZUWWM1MXhITk9LNUVOWjlVZV9sTmo4VnVQYTJsamZEQzkxRHJuN25mSmhHei1mY1dzc2Z1ZE1pNTRMdklXT0NvU2VlRlp1dg?oc=5",
+      "iso": "2026-06-27T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Mehiläiset kesätöissä Arabian katolla",
+      "link": "https://kauppakeskusarabia.fi/mehilaiset-kesatoissa-arabian-katolla/",
+      "iso": "2026-06-25T08:18:58+00:00",
+      "src": "Kauppakeskus Arabia"
     }
   ]
 }
