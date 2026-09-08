@@ -1,10 +1,16 @@
 {
-  "generated": "2026-09-08T09:19:36.128861+00:00",
+  "generated": "2026-09-08T13:44:32.983580+00:00",
   "count": 30,
   "failed": 0,
   "items": [
     {
-      "title": "Perjantaiklubi: Introsoul",
+      "title": "Seniorikahvila Kääntöpaikalla maanantaisin",
+      "link": "https://kaantopaikka.fi/seniorikahvila/",
+      "iso": "2026-09-08T10:29:15+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Perjantaiklubilla 11.9. Introsoul",
       "link": "https://kaantopaikka.fi/perjantaiklubi-introsoul/",
       "iso": "2026-09-08T07:52:56+00:00",
       "src": "Kylätalo Kääntöpaikka"
@@ -112,7 +118,7 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Matematiikka- ja ohjelmointikerhoja Kumpulassa ja etänä syksyllä 2026 | Tiedekasvatus | Helsingin yliopisto - helsinki.fi",
+      "title": "Matematiikka- ja ohjelmointikerhoja Kumpulassa ja etänä syksyllä 2026 | Tiedekasvatus | Helsingin yliopisto - University of Helsinki",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTTA3RTl3N3B6OGRkcVhsYnNlbWRNVlUxWEx1SG9DN1NLbktQck5EdFIwZlJXQjhtalZmM2ZTaExOZjNRTFVUUmZwSmJqNmM3UTc1LUhRM0xCZXhCYlVhLW10a21FM3FuTGc3OVNldk1GQmYyREFaRlpMUEZqOXk5T3FKaTkyVFo3N194eUVsWjk1aEUzWEZodWdkMnF3NklWeGRPZko2cWg0bGkzX3Y0YmVxU0VjS1packZpVTktYkhLOTNaaTY4S1oyeFNGQm0zbUNHcW9ObEZmYjQ5OUE?oc=5",
       "iso": "2026-08-20T07:00:00+00:00",
       "src": "Google News"
@@ -176,12 +182,6 @@
       "link": "https://hyotykasviyhdistys.fi/tapahtumat/tiistaiteemat-2026/",
       "iso": "2026-07-24T12:20:35+00:00",
       "src": "Annalan huvila"
-    },
-    {
-      "title": "Arabianrannan Lohikäärme | Osta lippu helposti - Tiketti",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTW1qSDhQZ1VhOWs5cUxmQ0NJWVNBUFhhS0RKRm8yRVJ3aC1xbEI0V2x0WXlybnBaZm90dGJzclZ3MU5pbWRuc3JEZV90N0xyWjFkanZjM0IwV3R3S0dDQUpZT2ItLUtDOHlSdDNCTGJIMHJ3Z25LRFp4RUtrS2ktZnh1ZWpoWHFx?oc=5",
-      "iso": "2026-07-22T07:00:00+00:00",
-      "src": "Google News"
     }
   ]
 }
