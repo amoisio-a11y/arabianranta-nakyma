@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T08:49:52.759775+00:00",
+  "generated": "2026-09-12T12:32:07.877508+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -44,6 +44,12 @@
       "link": "https://kaupunginosat.fi/artova/artovan-kannanotto-arabianbaanasta-kevytbaana/",
       "iso": "2026-09-06T14:36:05+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Konsertti Kumpulan kasvitieteellisen puutarhan lähistöllä perjantaina 4. syyskuuta | Luonnontieteellinen keskusmuseo - University of Helsinki",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdGdCNVlxVGpHY1BqT1Z6dVJNTnRXXzk2dzFDbWNQcVp0R2xmaERpeERZbmI0M1RPMGsycm5iQTV1Q2JRNW1VMlN0VkZKdFAzM2N3cXFfX3hDVXFVVjFpbS1VN0pWcDNUSjFwa0pxMDZMYVRGUl9RcmdabnRlVjZ0MmZXRVZsNmQyQlF0Vy1YekNIdTIwbUhPVWg2cnVSRm9rQVAyNE52TGxEMmh2REFMdWVEX0hOVVd1V2tPUF9hbUhoeHZFQVF0VnpNUDlGbG05NlZz?oc=5",
+      "iso": "2026-09-04T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Kääntöpaikan Galleriatilan syyskuu: ”Toinen maailma”",
@@ -174,12 +180,6 @@
     {
       "title": "ANNALAN HUVILAN SUNNUNTAIKAHVILA",
       "link": "https://hyotykasviyhdistys.fi/tapahtumat/huvilansunnuntaikahvila/",
-      "iso": "2026-07-24T12:20:35+00:00",
-      "src": "Annalan huvila"
-    },
-    {
-      "title": "TIISTAITEEMAT 2026",
-      "link": "https://hyotykasviyhdistys.fi/tapahtumat/tiistaiteemat-2026/",
       "iso": "2026-07-24T12:20:35+00:00",
       "src": "Annalan huvila"
     }
