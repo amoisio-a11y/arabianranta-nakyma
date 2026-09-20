@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T19:39:21.884003+00:00",
+  "generated": "2026-09-20T21:49:16.138068+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -166,6 +166,12 @@
       "src": "Google News"
     },
     {
+      "title": "Viimeisten kesäiltojen tunnelma kohdillaan – Kumpulan maauimala kutsuu kuutamouinnille - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44N0lHMFNFOHZKYkNQVl93TGZlQUtqSDBvRjdZRU1rU0plYS1UY09qOWVlaW9zSWF4bVFpV05WajJMVHRvT3dSbFhOcjFDYzRKdldtZ2s3LXJPVGhGcnJUeg?oc=5",
+      "iso": "2026-08-15T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "SYYSTORI",
       "link": "https://hyotykasviyhdistys.fi/tapahtumat/syystori-6/",
       "iso": "2026-08-13T21:33:00+00:00",
@@ -175,12 +181,6 @@
       "title": "Helsingin Jyryn liikuntapäivä Pornaistenniemellä 28.8.",
       "link": "https://kaupunginosat.fi/artova/helsingin-jyryn-liikuntapaiva-pornaistenniemella-28-8/",
       "iso": "2026-08-10T11:54:37+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Pornaistenniemessä uusitaan lintutorni ja piilokoju",
-      "link": "https://kaupunginosat.fi/artova/pornaistenniemessa-uusitaan-lintutorni-ja-piilokoju/",
-      "iso": "2026-08-10T09:26:09+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
