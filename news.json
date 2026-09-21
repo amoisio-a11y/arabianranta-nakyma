@@ -1,10 +1,22 @@
 {
-  "generated": "2026-09-21T07:11:57.076096+00:00",
+  "generated": "2026-09-21T14:07:06.186156+00:00",
   "count": 30,
   "failed": 0,
   "items": [
     {
-      "title": "Helsinki sai myytyä päihdehuoltoyksikkönä toimineen talon – hinta 400 000 euroa - Helsingin Uutiset",
+      "title": "25.9. Perjantaiklubilla esiintyy The Lost Cosmonauts",
+      "link": "https://kaantopaikka.fi/25-9-perjantaiklubilla-esiintyy-the-lost-cosmonauts/",
+      "iso": "2026-09-21T08:58:36+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Tervetuloa juhlimaan Arabian 100 vuotiasta raitioliikennettä 23.9.!",
+      "link": "https://kaantopaikka.fi/raitioliikenne-arabiaan-tayttaa-syyskuussa-2026-sata-vuotta/",
+      "iso": "2026-09-21T08:23:49+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Helsinki sai myytyä päihdehuoltoyksikkönä toimineen talon – hinta 400 000 euroa - helsinginuutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CN3FkbFFneTNUc1Q2SC05b2RRSnV2MEdoUjhFT0UyYVowQmxpQ2dSWmtpcjhsdUI4MDlTcFE5TnlHdy1QUHRDLUhnRWUxOHNBUWRhNFFLazR2UktJY3ZHSg?oc=5",
       "iso": "2026-09-17T05:44:50+00:00",
       "src": "Google News"
@@ -28,21 +40,15 @@
       "src": "Kauppakeskus Arabia"
     },
     {
-      "title": "18.9. Perjantaiklubilla esiintyy Outi ja olevaiset",
-      "link": "https://kaantopaikka.fi/18-9-perjantaiklubilla-esiintyy-outi-ja-olevaiset/",
-      "iso": "2026-09-14T09:24:20+00:00",
-      "src": "Kylätalo Kääntöpaikka"
-    },
-    {
       "title": "Uusi kerrostalo valmistuu Arabian ytimeen – vastuullista asumista palveluiden keskellä",
       "link": "https://kauppakeskusarabia.fi/uusi-kerrostalo-valmistuu-arabian-ytimeen-vastuullista-asumista-palveluiden-keskella/",
       "iso": "2026-09-14T09:18:37+00:00",
       "src": "Kauppakeskus Arabia"
     },
     {
-      "title": "Arabianrantaan valmistuu maamerkki, joka on lähes täynnä yksiöitä – tutkija: \"Käsittämätöntä\" - Helsingin Uutiset",
+      "title": "Arabianrantaan valmistuu maamerkki, joka on lähes täynnä yksiöitä – tutkija: \"Käsittämätöntä\" - helsinginuutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HZWZmcy1zb1RMRGI5Z21NQkE1Tk1odkpCZm5wV0FiSEw4c2tiamF2TVI5NWV1RVZ1ZzFiTkRwQmxfZEg3Y01iZ0dOTnAzd1hPbFFUYTFfTTV1NVAzMjRIdw?oc=5",
-      "iso": "2026-09-13T05:02:00+00:00",
+      "iso": "2026-09-13T07:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -166,7 +172,7 @@
       "src": "Google News"
     },
     {
-      "title": "Viimeisten kesäiltojen tunnelma kohdillaan – Kumpulan maauimala kutsuu kuutamouinnille - Helsingin Uutiset",
+      "title": "Viimeisten kesäiltojen tunnelma kohdillaan – Kumpulan maauimala kutsuu kuutamouinnille - helsinginuutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44N0lHMFNFOHZKYkNQVl93TGZlQUtqSDBvRjdZRU1rU0plYS1UY09qOWVlaW9zSWF4bVFpV05WajJMVHRvT3dSbFhOcjFDYzRKdldtZ2s3LXJPVGhGcnJUeg?oc=5",
       "iso": "2026-08-15T07:00:00+00:00",
       "src": "Google News"
@@ -176,12 +182,6 @@
       "link": "https://hyotykasviyhdistys.fi/tapahtumat/syystori-6/",
       "iso": "2026-08-13T21:33:00+00:00",
       "src": "Annalan huvila"
-    },
-    {
-      "title": "Helsingin Jyryn liikuntapäivä Pornaistenniemellä 28.8.",
-      "link": "https://kaupunginosat.fi/artova/helsingin-jyryn-liikuntapaiva-pornaistenniemella-28-8/",
-      "iso": "2026-08-10T11:54:37+00:00",
-      "src": "Kaupunginosat.fi"
     }
   ]
 }
