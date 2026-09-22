@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-22T11:35:13.392386+00:00",
+  "generated": "2026-09-22T15:41:27.486242+00:00",
   "count": 30,
-  "failed": 3,
+  "failed": 0,
   "items": [
     {
       "title": "25.9. Perjantaiklubilla esiintyy The Lost Cosmonauts",
@@ -14,6 +14,12 @@
       "link": "https://kaantopaikka.fi/raitioliikenne-arabiaan-tayttaa-syyskuussa-2026-sata-vuotta/",
       "iso": "2026-09-21T08:23:49+00:00",
       "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Helsinki sai myytyä päihdehuoltoyksikkönä toimineen talon – hinta 400 000 euroa - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CN3FkbFFneTNUc1Q2SC05b2RRSnV2MEdoUjhFT0UyYVowQmxpQ2dSWmtpcjhsdUI4MDlTcFE5TnlHdy1QUHRDLUhnRWUxOHNBUWRhNFFLazR2UktJY3ZHSg?oc=5",
+      "iso": "2026-09-17T05:44:50+00:00",
+      "src": "Google News"
     },
     {
       "title": "Pohjois-Helsingin bussilinjaston uudistaminen on alkanut",
@@ -38,6 +44,12 @@
       "link": "https://kauppakeskusarabia.fi/uusi-kerrostalo-valmistuu-arabian-ytimeen-vastuullista-asumista-palveluiden-keskella/",
       "iso": "2026-09-14T09:18:37+00:00",
       "src": "Kauppakeskus Arabia"
+    },
+    {
+      "title": "Arabianrantaan valmistuu maamerkki, joka on lähes täynnä yksiöitä – tutkija: \"Käsittämätöntä\" - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HZWZmcy1zb1RMRGI5Z21NQkE1Tk1odkpCZm5wV0FiSEw4c2tiamF2TVI5NWV1RVZ1ZzFiTkRwQmxfZEg3Y01iZ0dOTnAzd1hPbFFUYTFfTTV1NVAzMjRIdw?oc=5",
+      "iso": "2026-09-13T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Seniorikahvila Kääntöpaikalla maanantaisin",
@@ -74,6 +86,12 @@
       "link": "https://kaupunginosat.fi/artova/artovan-kannanotto-arabianbaanasta-kevytbaana/",
       "iso": "2026-09-06T14:36:05+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Konsertti Kumpulan kasvitieteellisen puutarhan lähistöllä perjantaina 4. syyskuuta - Helsinki.fi",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdGdCNVlxVGpHY1BqT1Z6dVJNTnRXXzk2dzFDbWNQcVp0R2xmaERpeERZbmI0M1RPMGsycm5iQTV1Q2JRNW1VMlN0VkZKdFAzM2N3cXFfX3hDVXFVVjFpbS1VN0pWcDNUSjFwa0pxMDZMYVRGUl9RcmdabnRlVjZ0MmZXRVZsNmQyQlF0Vy1YekNIdTIwbUhPVWg2cnVSRm9rQVAyNE52TGxEMmh2REFMdWVEX0hOVVd1V2tPUF9hbUhoeHZFQVF0VnpNUDlGbG05NlZz?oc=5",
+      "iso": "2026-09-04T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Kääntöpaikan Galleriatilan syyskuu: ”Toinen maailma”",
@@ -148,39 +166,21 @@
       "src": "Kaupunginosat.fi"
     },
     {
+      "title": "Matematiikka- ja ohjelmointikerhoja Kumpulassa ja etänä syksyllä 2026 | Tiedekasvatus | Helsingin yliopisto - Helsinki.fi",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTTA3RTl3N3B6OGRkcVhsYnNlbWRNVlUxWEx1SG9DN1NLbktQck5EdFIwZlJXQjhtalZmM2ZTaExOZjNRTFVUUmZwSmJqNmM3UTc1LUhRM0xCZXhCYlVhLW10a21FM3FuTGc3OVNldk1GQmYyREFaRlpMUEZqOXk5T3FKaTkyVFo3N194eUVsWjk1aEUzWEZodWdkMnF3NklWeGRPZko2cWg0bGkzX3Y0YmVxU0VjS1packZpVTktYkhLOTNaaTY4S1oyeFNGQm0zbUNHcW9ObEZmYjQ5OUE?oc=5",
+      "iso": "2026-08-20T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Viimeisten kesäiltojen tunnelma kohdillaan – Kumpulan maauimala kutsuu kuutamouinnille - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44N0lHMFNFOHZKYkNQVl93TGZlQUtqSDBvRjdZRU1rU0plYS1UY09qOWVlaW9zSWF4bVFpV05WajJMVHRvT3dSbFhOcjFDYzRKdldtZ2s3LXJPVGhGcnJUeg?oc=5",
+      "iso": "2026-08-15T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "SYYSTORI",
       "link": "https://hyotykasviyhdistys.fi/tapahtumat/syystori-6/",
       "iso": "2026-08-13T21:33:00+00:00",
-      "src": "Annalan huvila"
-    },
-    {
-      "title": "Helsingin Jyryn liikuntapäivä Pornaistenniemellä 28.8.",
-      "link": "https://kaupunginosat.fi/artova/helsingin-jyryn-liikuntapaiva-pornaistenniemella-28-8/",
-      "iso": "2026-08-10T11:54:37+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Pornaistenniemessä uusitaan lintutorni ja piilokoju",
-      "link": "https://kaupunginosat.fi/artova/pornaistenniemessa-uusitaan-lintutorni-ja-piilokoju/",
-      "iso": "2026-08-10T09:26:09+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Artovan kotikaupunkipolkujen kierroksia taas varattavissa!",
-      "link": "https://kaupunginosat.fi/artova/artovan-kotikaupunkipolkujen-kierroksia-taas-varattavissa/",
-      "iso": "2026-08-10T09:18:35+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "IKEBANA – JAPANILAINEN KUKKIENASETTELUN TAIDE",
-      "link": "https://hyotykasviyhdistys.fi/tapahtumat/ikebanajapanilainenkukkienasetteluntaide/",
-      "iso": "2026-07-24T12:20:35+00:00",
-      "src": "Annalan huvila"
-    },
-    {
-      "title": "Syysmatka Viroon",
-      "link": "https://hyotykasviyhdistys.fi/tapahtumat/syysmatka-viroon/",
-      "iso": "2026-07-24T12:20:35+00:00",
       "src": "Annalan huvila"
     }
   ]
