@@ -1,13 +1,31 @@
 {
-  "generated": "2026-10-02T06:16:00.271615+00:00",
+  "generated": "2026-10-02T12:56:51.118525+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Kahvikonsertti 21.10.",
+      "link": "https://kaantopaikka.fi/kahvikonsertti-21-10/",
+      "iso": "2026-10-02T11:48:12+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Tanssi itsesi kotiin – ilmainen shaktitanssityöpaja 18.10 klo 12-15",
+      "link": "https://kaantopaikka.fi/tanssi-itsesi-kotiin-ilmainen-shaktitanssityopaja-18-10-klo-12-15/",
+      "iso": "2026-10-02T11:39:59+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
     {
       "title": "Kääntöpaikan Galleriatilassa Ben Vale: Ylhäällä",
       "link": "https://kaantopaikka.fi/kaantopaikan-galleriatilassa-ben-vale-ylhaalla/",
       "iso": "2026-10-02T05:52:51+00:00",
       "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Laajasalon Palloseura - Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQlU4bExoVmUyR1kzbVhGMkw0X28yZF9fRWNsUENtN3B6OWNkNGhlQ1VqZlJOOHhqUkZqZU5VUExzbzRTdU5WaFQ0WDVPMnBpeTVsTDhOR2FmWGJGZHAyZ1JJYS1aYk9VWklhTE1MRTVFaldBcjhROWhxSEtVSFowSTlYcldRYVJJSFhR?oc=5",
+      "iso": "2026-10-01T17:09:11+00:00",
+      "src": "Google News"
     },
     {
       "title": "Artova järjestää asukastilaisuuden kirjastolla 6.10. Arabianbaanaan liittyen. Lähde mukaan!",
@@ -164,24 +182,6 @@
       "link": "https://hyotykasviyhdistys.fi/tapahtumat/kasvivarjayskurssi-2/",
       "iso": "2026-08-25T13:39:29+00:00",
       "src": "Annalan huvila"
-    },
-    {
-      "title": "ALKU&JUURI PUOTI SIJAITSEE PASILASSA",
-      "link": "https://hyotykasviyhdistys.fi/tapahtumat/puoti-aukeaa-uudessa-osoitteessa/",
-      "iso": "2026-08-25T13:39:29+00:00",
-      "src": "Annalan huvila"
-    },
-    {
-      "title": "SIENIVILJELY DEMO VIIMEISESSÄ TIISTAITEEMASSA",
-      "link": "https://hyotykasviyhdistys.fi/tapahtumat/sieniviljely-demo-viimeisessa-tiistaiteemassa/",
-      "iso": "2026-08-25T13:39:29+00:00",
-      "src": "Annalan huvila"
-    },
-    {
-      "title": "100 vuotta jazzia Suomessa!",
-      "link": "https://kaupunginosat.fi/artova/100-vuotta-jazzia-suomessa/",
-      "iso": "2026-08-25T11:14:15+00:00",
-      "src": "Kaupunginosat.fi"
     }
   ]
 }
