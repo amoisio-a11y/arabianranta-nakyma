@@ -1,8 +1,20 @@
 {
-  "generated": "2026-10-07T06:15:02.433035+00:00",
+  "generated": "2026-10-07T13:28:38.685764+00:00",
   "count": 30,
-  "failed": 1,
+  "failed": 0,
   "items": [
+    {
+      "title": "Tired Unclella tapahtuu 🎶🍺",
+      "link": "https://arabia135.fi/ajankohtaista/tapahtumat/tired-unclella-tapahtuu-%f0%9f%8e%b6%f0%9f%8d%ba/",
+      "iso": "2026-10-07T09:38:09+00:00",
+      "src": "Arabia 135"
+    },
+    {
+      "title": "Pyöräily | Helsingin Arabianrannassa kasvaa kiukku, uutta baanaa pidetään vaarallisena - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01bTh2MWdZMDhnbWpiUWpfQjFtWTNHT3hidjlKNmlFdUNZc2s0REJVak5ocVJNdTRPeVp1S1JFYmdqQ1A0TlVxUXQ3V2pmNm1oSnVCSzNqLWhkczdPemc?oc=5",
+      "iso": "2026-10-07T08:25:00+00:00",
+      "src": "Google News"
+    },
     {
       "title": "Koululaisille toimintaa syyslomaviikolla!",
       "link": "https://kaantopaikka.fi/koululaisille-toimintaa-syyslomaviikolla/",
@@ -170,18 +182,6 @@
       "link": "https://arabianpalvelu.fi/arabian-palvelu-oy-tiedote-2-2026/",
       "iso": "2026-08-31T11:23:23+00:00",
       "src": "Arabian Palvelu"
-    },
-    {
-      "title": "Tired Unclella tapahtuu 🎶🍺",
-      "link": "https://arabia135.fi/ajankohtaista/tapahtumat/tired-unclella-tapahtuu-%f0%9f%8e%b6%f0%9f%8d%ba/",
-      "iso": "2026-08-26T10:42:24+00:00",
-      "src": "Arabia 135"
-    },
-    {
-      "title": "Levysoittorasia: Musikaalinen aikamatka menneisyyteen",
-      "link": "https://www.tekniikanmuseo.fi/levysoittorasia-musikaalinen-aikamatka-menneisyyteen/",
-      "iso": "2026-08-26T10:30:28+00:00",
-      "src": "Tekniikan museo"
     }
   ]
 }
