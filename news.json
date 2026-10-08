@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T02:55:33.431711+00:00",
+  "generated": "2026-10-08T09:47:04.010699+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -12,6 +12,12 @@
     {
       "title": "Pyöräily | Helsingin Arabianrannassa kasvaa kiukku, uutta baanaa pidetään vaarallisena - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01bTh2MWdZMDhnbWpiUWpfQjFtWTNHT3hidjlKNmlFdUNZc2s0REJVak5ocVJNdTRPeVp1S1JFYmdqQ1A0TlVxUXQ3V2pmNm1oSnVCSzNqLWhkczdPemc?oc=5",
+      "iso": "2026-10-07T08:25:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Pyöräily | Helsingin Arabianrannassa kasvaa kiukku, uutta baanaa pidetään vaarallisena - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94RXRUbkx6VXIzSlVuZFZUbVAzMk5rNVZKOXFNcXVsT0RvcnRWeU9SSjlDbGpXYk1OdVVyRV9GS1pGanR5Q1ZyMEdDYjZod0NBQ3pjUmFhQU5ZaFlqQkctLWZZeElWVUFEaWVMcll3?oc=5",
       "iso": "2026-10-07T08:25:00+00:00",
       "src": "Google News"
     },
@@ -176,12 +182,6 @@
       "link": "https://kaupunginosat.fi/artova/artovan-kannanotto-arabianbaanasta-kevytbaana/",
       "iso": "2026-09-06T14:36:05+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Arabian Palvelu Oy: Tiedote 2/2026",
-      "link": "https://arabianpalvelu.fi/arabian-palvelu-oy-tiedote-2-2026/",
-      "iso": "2026-08-31T11:23:23+00:00",
-      "src": "Arabian Palvelu"
     }
   ]
 }
