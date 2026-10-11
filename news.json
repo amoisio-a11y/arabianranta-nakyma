@@ -1,13 +1,19 @@
 {
-  "generated": "2026-10-11T08:46:43.091443+00:00",
+  "generated": "2026-10-11T15:13:16.014429+00:00",
   "count": 30,
-  "failed": 3,
+  "failed": 0,
   "items": [
     {
       "title": "Tired Unclella tapahtuu 🎶🍺",
       "link": "https://arabia135.fi/ajankohtaista/tapahtumat/tired-unclella-tapahtuu-%f0%9f%8e%b6%f0%9f%8d%ba/",
       "iso": "2026-10-07T09:38:09+00:00",
       "src": "Arabia 135"
+    },
+    {
+      "title": "Pyöräily | Helsingin Arabianrannassa kasvaa kiukku, uutta baanaa pidetään vaarallisena - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01bTh2MWdZMDhnbWpiUWpfQjFtWTNHT3hidjlKNmlFdUNZc2s0REJVak5ocVJNdTRPeVp1S1JFYmdqQ1A0TlVxUXQ3V2pmNm1oSnVCSzNqLWhkczdPemc?oc=5",
+      "iso": "2026-10-07T08:25:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Koululaisille toimintaa syyslomaviikolla!",
@@ -20,6 +26,12 @@
       "link": "https://kaantopaikka.fi/halloween-jahti-28-10-klo-17/",
       "iso": "2026-10-06T08:37:30+00:00",
       "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Arabianrantaan suunniteltavan pyöräväylän turvallisuutta parannetaan, päättivät Helsingin poliitikot - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBHNE9sTldxeGNxRTBwaDVQNlVZVmhVZmFCSGN0aXExaFdSbEM1SnBIckxTLXpQTjVpNFc4bno4OEJvUQ?oc=5",
+      "iso": "2026-10-06T06:18:47+00:00",
+      "src": "Google News"
     },
     {
       "title": "SILMÄSET-OPTIKON TAPAHTUMAVIIKKO 19.–24.10.",
@@ -82,6 +94,18 @@
       "src": "Kylätalo Kääntöpaikka"
     },
     {
+      "title": "Helsinki | Ränsistynyt arvohuvila Kumpulassa myytiin 15 000 eurolla, nyt alkaa valtava urakka - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2cVRQeUlDTjRzLU9xUjJldTBHakRkV1M5QjZ0N1BocFpvT0lxWUFwSV9uYnNmTlRjTC1NSV8tR1Z2SndGMFJMaTZOaEwzZU5MRXl5M1QwMGlrbDBqLVE?oc=5",
+      "iso": "2026-09-28T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Helsinki sai myytyä päihdehuoltoyksikkönä toimineen talon – hinta 400 000 euroa - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CN3FkbFFneTNUc1Q2SC05b2RRSnV2MEdoUjhFT0UyYVowQmxpQ2dSWmtpcjhsdUI4MDlTcFE5TnlHdy1QUHRDLUhnRWUxOHNBUWRhNFFLazR2UktJY3ZHSg?oc=5",
+      "iso": "2026-09-17T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Pohjois-Helsingin bussilinjaston uudistaminen on alkanut",
       "link": "https://kaupunginosat.fi/artova/pohjois-helsingin-bussilinjaston-uudistaminen-on-alkanut/",
       "iso": "2026-09-16T12:35:35+00:00",
@@ -104,6 +128,12 @@
       "link": "https://kauppakeskusarabia.fi/uusi-kerrostalo-valmistuu-arabian-ytimeen-vastuullista-asumista-palveluiden-keskella/",
       "iso": "2026-09-14T09:18:37+00:00",
       "src": "Kauppakeskus Arabia"
+    },
+    {
+      "title": "Arabianrantaan valmistuu maamerkki, joka on lähes täynnä yksiöitä – tutkija: \"Käsittämätöntä\" - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HZWZmcy1zb1RMRGI5Z21NQkE1Tk1odkpCZm5wV0FiSEw4c2tiamF2TVI5NWV1RVZ1ZzFiTkRwQmxfZEg3Y01iZ0dOTnAzd1hPbFFUYTFfTTV1NVAzMjRIdw?oc=5",
+      "iso": "2026-09-13T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Seniorikahvila Kääntöpaikalla maanantaisin",
@@ -152,36 +182,6 @@
       "link": "https://www.tekniikanmuseo.fi/levysoittorasia-musikaalinen-aikamatka-menneisyyteen/",
       "iso": "2026-08-26T10:30:28+00:00",
       "src": "Tekniikan museo"
-    },
-    {
-      "title": "Syyspidot la 5.9. klo 11-15",
-      "link": "https://kauppakeskusarabia.fi/syyspidot-kutsuvat-koko-perheen-arabiaan-5-9/",
-      "iso": "2026-08-26T04:07:05+00:00",
-      "src": "Kauppakeskus Arabia"
-    },
-    {
-      "title": "KASVIVÄRJÄYSKURSSI",
-      "link": "https://hyotykasviyhdistys.fi/tapahtumat/kasvivarjayskurssi-2/",
-      "iso": "2026-08-25T13:39:29+00:00",
-      "src": "Annalan huvila"
-    },
-    {
-      "title": "ALKU&JUURI PUOTI SIJAITSEE PASILASSA",
-      "link": "https://hyotykasviyhdistys.fi/tapahtumat/puoti-aukeaa-uudessa-osoitteessa/",
-      "iso": "2026-08-25T13:39:29+00:00",
-      "src": "Annalan huvila"
-    },
-    {
-      "title": "SIENIVILJELY DEMO VIIMEISESSÄ TIISTAITEEMASSA",
-      "link": "https://hyotykasviyhdistys.fi/tapahtumat/sieniviljely-demo-viimeisessa-tiistaiteemassa/",
-      "iso": "2026-08-25T13:39:29+00:00",
-      "src": "Annalan huvila"
-    },
-    {
-      "title": "100 vuotta jazzia Suomessa!",
-      "link": "https://kaupunginosat.fi/artova/100-vuotta-jazzia-suomessa/",
-      "iso": "2026-08-25T11:14:15+00:00",
-      "src": "Kaupunginosat.fi"
     }
   ]
 }
