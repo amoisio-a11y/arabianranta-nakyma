@@ -1,8 +1,14 @@
 {
-  "generated": "2026-10-13T01:30:09.712012+00:00",
+  "generated": "2026-10-13T08:16:34.548309+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Lounas Kauppakeskus Arabiassa",
+      "link": "https://kauppakeskusarabia.fi/lounas-kauppakeskus-arabiassa/",
+      "iso": "2026-10-13T05:49:23+00:00",
+      "src": "Kauppakeskus Arabia"
+    },
     {
       "title": "Tired Unclella tapahtuu 🎶🍺",
       "link": "https://arabia135.fi/ajankohtaista/tapahtumat/tired-unclella-tapahtuu-%f0%9f%8e%b6%f0%9f%8d%ba/",
@@ -176,12 +182,6 @@
       "link": "https://arabianpalvelu.fi/arabian-palvelu-oy-tiedote-2-2026/",
       "iso": "2026-08-31T11:23:23+00:00",
       "src": "Arabian Palvelu"
-    },
-    {
-      "title": "Levysoittorasia: Musikaalinen aikamatka menneisyyteen",
-      "link": "https://www.tekniikanmuseo.fi/levysoittorasia-musikaalinen-aikamatka-menneisyyteen/",
-      "iso": "2026-08-26T10:30:28+00:00",
-      "src": "Tekniikan museo"
     }
   ]
 }
