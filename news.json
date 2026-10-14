@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T05:08:28.508755+00:00",
+  "generated": "2026-10-14T10:09:08.372129+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -34,12 +34,6 @@
       "src": "Kylätalo Kääntöpaikka"
     },
     {
-      "title": "Arabianrantaan suunniteltavan pyöräväylän turvallisuutta parannetaan, päättivät Helsingin poliitikot - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBHNE9sTldxeGNxRTBwaDVQNlVZVmhVZmFCSGN0aXExaFdSbEM1SnBIckxTLXpQTjVpNFc4bno4OEJvUQ?oc=5",
-      "iso": "2026-10-06T06:18:47+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "SILMÄSET-OPTIKON TAPAHTUMAVIIKKO 19.–24.10.",
       "link": "https://kauppakeskusarabia.fi/silmaset-optikon-tapahtumaviikko-19-24-10/",
       "iso": "2026-10-05T10:03:46+00:00",
@@ -50,6 +44,12 @@
       "link": "https://kaantopaikka.fi/untamon-matka-talviunille-moniaistillinen-aanimatka/",
       "iso": "2026-10-05T07:11:40+00:00",
       "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Arabianrantaan suunniteltavan pyöräväylän turvallisuutta parannetaan, päättivät Helsingin poliitikot - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBHNE9sTldxeGNxRTBwaDVQNlVZVmhVZmFCSGN0aXExaFdSbEM1SnBIckxTLXpQTjVpNFc4bno4OEJvUQ?oc=5",
+      "iso": "2026-10-05T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Kahvikonsertti 21.10.",
