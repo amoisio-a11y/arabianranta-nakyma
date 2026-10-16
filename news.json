@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T03:44:39.188455+00:00",
+  "generated": "2026-10-16T08:30:59.986334+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -118,6 +118,12 @@
       "src": "Google News"
     },
     {
+      "title": "Helsinki sai myytyä päihdehuoltoyksikkönä toimineen talon – hinta 400 000 euroa - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CN3FkbFFneTNUc1Q2SC05b2RRSnV2MEdoUjhFT0UyYVowQmxpQ2dSWmtpcjhsdUI4MDlTcFE5TnlHdy1QUHRDLUhnRWUxOHNBUWRhNFFLazR2UktJY3ZHSg?oc=5",
+      "iso": "2026-09-17T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Pohjois-Helsingin bussilinjaston uudistaminen on alkanut",
       "link": "https://kaupunginosat.fi/artova/pohjois-helsingin-bussilinjaston-uudistaminen-on-alkanut/",
       "iso": "2026-09-16T12:35:35+00:00",
@@ -176,12 +182,6 @@
       "link": "https://kaantopaikka.fi/kaantopaikan-lukupiiri/",
       "iso": "2026-09-07T09:23:48+00:00",
       "src": "Kylätalo Kääntöpaikka"
-    },
-    {
-      "title": "Artovan kannanotto: Arabianbaanasta kevytbaana",
-      "link": "https://kaupunginosat.fi/artova/artovan-kannanotto-arabianbaanasta-kevytbaana/",
-      "iso": "2026-09-06T14:36:05+00:00",
-      "src": "Kaupunginosat.fi"
     }
   ]
 }
