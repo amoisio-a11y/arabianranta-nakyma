@@ -1,8 +1,14 @@
 {
-  "generated": "2026-10-19T06:49:33.682757+00:00",
+  "generated": "2026-10-19T14:14:14.937540+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Ruohonjuurisarjakuvan kurssi 28.11.2026",
+      "link": "https://kaantopaikka.fi/ruohonjuurisarjakuvan-kurssi-28-11-2026/",
+      "iso": "2026-10-19T07:22:00+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
     {
       "title": "Pikkujoulut Luovuuden Korttelissa",
       "link": "https://arabia135.fi/ajankohtaista/tapahtumat/pikkujoulut-luovuuden-korttelissa/",
@@ -46,12 +52,6 @@
       "src": "Google News"
     },
     {
-      "title": "Koululaisille toimintaa syyslomaviikolla!",
-      "link": "https://kaantopaikka.fi/koululaisille-toimintaa-syyslomaviikolla/",
-      "iso": "2026-10-06T13:58:14+00:00",
-      "src": "Kylätalo Kääntöpaikka"
-    },
-    {
       "title": "Leikkitreffit esittää: Halloween-jahti 28.10. klo 17!",
       "link": "https://kaantopaikka.fi/halloween-jahti-28-10-klo-17/",
       "iso": "2026-10-06T08:37:30+00:00",
@@ -79,12 +79,6 @@
       "title": "Kahvikonsertti 21.10.",
       "link": "https://kaantopaikka.fi/kahvikonsertti-21-10/",
       "iso": "2026-10-02T11:48:12+00:00",
-      "src": "Kylätalo Kääntöpaikka"
-    },
-    {
-      "title": "Tanssi itsesi kotiin – ilmainen shaktitanssityöpaja 18.10 klo 12-15",
-      "link": "https://kaantopaikka.fi/tanssi-itsesi-kotiin-ilmainen-shaktitanssityopaja-18-10-klo-12-15/",
-      "iso": "2026-10-02T11:39:59+00:00",
       "src": "Kylätalo Kääntöpaikka"
     },
     {
@@ -181,6 +175,12 @@
       "title": "Taiteilijahaku -2027 Open call -2027",
       "link": "https://kaantopaikka.fi/taiteilijahaku-2027-open-call-2027/",
       "iso": "2026-09-07T10:16:12+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Käsityöryhmä Kääntöpaikkaajat kokoontuu joka toinen keskiviikko",
+      "link": "https://kaantopaikka.fi/kaantopaikkaajat/",
+      "iso": "2026-09-07T09:37:34+00:00",
       "src": "Kylätalo Kääntöpaikka"
     }
   ]
