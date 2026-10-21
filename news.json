@@ -1,14 +1,8 @@
 {
-  "generated": "2026-10-21T07:34:47.877015+00:00",
+  "generated": "2026-10-21T13:13:12.171925+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 1,
   "items": [
-    {
-      "title": "Vanhankaupunginkosken padon purkamisen vaikutukset selvitetty",
-      "link": "https://www.hel.fi/fi/uutiset/vanhankaupunginkosken-padon-purkamisen-vaikutukset-selvitetty",
-      "iso": "2026-10-21T06:32:04+00:00",
-      "src": "Helsingin kaupunki"
-    },
     {
       "title": "Taikuri Kari – iloa, naurua ja taikuuden taikaa kaikenikäisille!",
       "link": "https://arabia135.fi/ajankohtaista/tapahtumat/taikuri-kari-iloa-naurua-ja-taikuuden-taikaa-kaikenikaisille/",
@@ -145,6 +139,12 @@
       "title": "Helsinki | Ränsistynyt arvohuvila Kumpulassa myytiin 15 000 eurolla, nyt alkaa valtava urakka - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2cVRQeUlDTjRzLU9xUjJldTBHakRkV1M5QjZ0N1BocFpvT0lxWUFwSV9uYnNmTlRjTC1NSV8tR1Z2SndGMFJMaTZOaEwzZU5MRXl5M1QwMGlrbDBqLVE?oc=5",
       "iso": "2026-09-28T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Helsinki sai myytyä päihdehuoltoyksikkönä toimineen talon – hinta 400 000 euroa - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CN3FkbFFneTNUc1Q2SC05b2RRSnV2MEdoUjhFT0UyYVowQmxpQ2dSWmtpcjhsdUI4MDlTcFE5TnlHdy1QUHRDLUhnRWUxOHNBUWRhNFFLazR2UktJY3ZHSg?oc=5",
+      "iso": "2026-09-17T07:00:00+00:00",
       "src": "Google News"
     },
     {
