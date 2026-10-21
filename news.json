@@ -1,8 +1,26 @@
 {
-  "generated": "2026-10-21T02:00:45.017903+00:00",
+  "generated": "2026-10-21T07:34:47.877015+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Vanhankaupunginkosken padon purkamisen vaikutukset selvitetty",
+      "link": "https://www.hel.fi/fi/uutiset/vanhankaupunginkosken-padon-purkamisen-vaikutukset-selvitetty",
+      "iso": "2026-10-21T06:32:04+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Taikuri Kari – iloa, naurua ja taikuuden taikaa kaikenikäisille!",
+      "link": "https://arabia135.fi/ajankohtaista/tapahtumat/taikuri-kari-iloa-naurua-ja-taikuuden-taikaa-kaikenikaisille/",
+      "iso": "2026-10-21T06:04:48+00:00",
+      "src": "Arabia 135"
+    },
+    {
+      "title": "Connection with Clay – Japanilainen keramiikka kohtaa Suomen",
+      "link": "https://arabia135.fi/ajankohtaista/tapahtumat/connection-with-clay-japanilainen-keramiikka-kohtaa-suomen/",
+      "iso": "2026-10-21T05:39:10+00:00",
+      "src": "Arabia 135"
+    },
     {
       "title": "Ruohonjuurisarjakuvan kurssi 28.11.2026",
       "link": "https://kaantopaikka.fi/ruohonjuurisarjakuvan-kurssi-28-11-2026/",
@@ -130,12 +148,6 @@
       "src": "Google News"
     },
     {
-      "title": "Helsinki sai myytyä päihdehuoltoyksikkönä toimineen talon – hinta 400 000 euroa - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CN3FkbFFneTNUc1Q2SC05b2RRSnV2MEdoUjhFT0UyYVowQmxpQ2dSWmtpcjhsdUI4MDlTcFE5TnlHdy1QUHRDLUhnRWUxOHNBUWRhNFFLazR2UktJY3ZHSg?oc=5",
-      "iso": "2026-09-17T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Pohjois-Helsingin bussilinjaston uudistaminen on alkanut",
       "link": "https://kaupunginosat.fi/artova/pohjois-helsingin-bussilinjaston-uudistaminen-on-alkanut/",
       "iso": "2026-09-16T12:35:35+00:00",
@@ -169,18 +181,6 @@
       "title": "Seniorikahvila Kääntöpaikalla maanantaisin",
       "link": "https://kaantopaikka.fi/seniorikahvila/",
       "iso": "2026-09-08T10:29:15+00:00",
-      "src": "Kylätalo Kääntöpaikka"
-    },
-    {
-      "title": "Kääntöpaikalla joka viikko Touhutorstai!",
-      "link": "https://kaantopaikka.fi/kaantopaikalla-touhu-torstai/",
-      "iso": "2026-09-07T10:38:53+00:00",
-      "src": "Kylätalo Kääntöpaikka"
-    },
-    {
-      "title": "Taiteilijahaku -2027 Open call -2027",
-      "link": "https://kaantopaikka.fi/taiteilijahaku-2027-open-call-2027/",
-      "iso": "2026-09-07T10:16:12+00:00",
       "src": "Kylätalo Kääntöpaikka"
     }
   ]
