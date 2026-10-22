@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T00:12:43.440843+00:00",
+  "generated": "2026-10-22T04:43:11.961318+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -94,6 +94,12 @@
       "src": "Google News"
     },
     {
+      "title": "SDP:n kaupunginhallitusryhmä: Baanoja suunniteltaessa on huomioitava asukkaiden mielipiteet ja turvallisuus - STT Info",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQU1M0QzVUQUQzV0ZObXpmLVRaYzc1WXctb1FfOVVCZGRGbktNSFpkUVVyRWlBTDdHUkg1SEJLMW45cmoyampSV1hpLV83N2pLR2pTeG5CWmJpMDFnakhyQWVYX3R3WlVlQ3NtMWVkNmVrcGNzYzNzbld6ZnlRNk1QdkV3R182Yld1aFFUWVJzb045bkoweEhwaTRFWjFNTGlzckJsekZQbUdwVG9OeVBZWnZScXByaDZlblFFclp3QWliaW42TkRqREpPSzBYVTlMVEN0UzJzZmNpSno2VUZOQ2FpMHptZV93cU10cVRrY3NJS2pKR29qdC1MdldWTVhZUWY2NA?oc=5",
+      "iso": "2026-10-05T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Kahvikonsertti 21.10.",
       "link": "https://kaantopaikka.fi/kahvikonsertti-21-10/",
       "iso": "2026-10-02T11:48:12+00:00",
@@ -136,6 +142,12 @@
       "src": "Kylätalo Kääntöpaikka"
     },
     {
+      "title": "Helsinki | Ränsistynyt arvohuvila Kumpulassa myytiin 15 000 eurolla, nyt alkaa valtava urakka - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2cVRQeUlDTjRzLU9xUjJldTBHakRkV1M5QjZ0N1BocFpvT0lxWUFwSV9uYnNmTlRjTC1NSV8tR1Z2SndGMFJMaTZOaEwzZU5MRXl5M1QwMGlrbDBqLVE?oc=5",
+      "iso": "2026-09-28T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Helsinki sai myytyä päihdehuoltoyksikkönä toimineen talon – hinta 400 000 euroa - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CN3FkbFFneTNUc1Q2SC05b2RRSnV2MEdoUjhFT0UyYVowQmxpQ2dSWmtpcjhsdUI4MDlTcFE5TnlHdy1QUHRDLUhnRWUxOHNBUWRhNFFLazR2UktJY3ZHSg?oc=5",
       "iso": "2026-09-17T07:00:00+00:00",
@@ -170,18 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HZWZmcy1zb1RMRGI5Z21NQkE1Tk1odkpCZm5wV0FiSEw4c2tiamF2TVI5NWV1RVZ1ZzFiTkRwQmxfZEg3Y01iZ0dOTnAzd1hPbFFUYTFfTTV1NVAzMjRIdw?oc=5",
       "iso": "2026-09-13T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Seniorikahvila Kääntöpaikalla maanantaisin",
-      "link": "https://kaantopaikka.fi/seniorikahvila/",
-      "iso": "2026-09-08T10:29:15+00:00",
-      "src": "Kylätalo Kääntöpaikka"
-    },
-    {
-      "title": "Kääntöpaikalla joka viikko Touhutorstai!",
-      "link": "https://kaantopaikka.fi/kaantopaikalla-touhu-torstai/",
-      "iso": "2026-09-07T10:38:53+00:00",
-      "src": "Kylätalo Kääntöpaikka"
     }
   ]
 }
