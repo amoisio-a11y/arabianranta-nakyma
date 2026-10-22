@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T04:43:11.961318+00:00",
+  "generated": "2026-10-22T09:39:08.147025+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -13,12 +13,6 @@
       "title": "Taikuri Kari – iloa, naurua ja taikuuden taikaa kaikenikäisille!",
       "link": "https://arabia135.fi/ajankohtaista/tapahtumat/taikuri-kari-iloa-naurua-ja-taikuuden-taikaa-kaikenikaisille/",
       "iso": "2026-10-21T06:04:48+00:00",
-      "src": "Arabia 135"
-    },
-    {
-      "title": "Connection with Clay – Japanilainen keramiikka kohtaa Suomen",
-      "link": "https://arabia135.fi/ajankohtaista/tapahtumat/connection-with-clay-japanilainen-keramiikka-kohtaa-suomen/",
-      "iso": "2026-10-21T05:39:10+00:00",
       "src": "Arabia 135"
     },
     {
@@ -182,6 +176,12 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HZWZmcy1zb1RMRGI5Z21NQkE1Tk1odkpCZm5wV0FiSEw4c2tiamF2TVI5NWV1RVZ1ZzFiTkRwQmxfZEg3Y01iZ0dOTnAzd1hPbFFUYTFfTTV1NVAzMjRIdw?oc=5",
       "iso": "2026-09-13T07:00:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Seniorikahvila Kääntöpaikalla maanantaisin",
+      "link": "https://kaantopaikka.fi/seniorikahvila/",
+      "iso": "2026-09-08T10:29:15+00:00",
+      "src": "Kylätalo Kääntöpaikka"
     }
   ]
 }
