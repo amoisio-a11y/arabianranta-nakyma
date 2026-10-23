@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-23T05:21:13.828320+00:00",
+  "generated": "2026-10-23T10:20:50.815863+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 1,
   "items": [
     {
       "title": "SÄÄNTÖMÄÄRÄINEN SYYSKOKOUS",
@@ -118,24 +118,6 @@
       "src": "Kylätalo Kääntöpaikka"
     },
     {
-      "title": "Artova järjestää asukastilaisuuden kirjastolla 6.10. Arabianbaanaan liittyen. Lähde mukaan!",
-      "link": "https://kaupunginosat.fi/artova/artova-jarjestaa-asukastilaisuuden-kirjastolla-6-10-arabianbaanaan-liittyen-lahde-mukaan/",
-      "iso": "2026-10-01T15:12:54+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Artova järjestää asukasillan 6.10. liittyen Arabianbaanan suunnitelmiin",
-      "link": "https://kaupunginosat.fi/artova/artova-jarjestaa-asukasillan-6-10-liittyen-arabianbaanan-suunnitelmiin/",
-      "iso": "2026-10-01T08:12:46+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Helsingin kävelyfestivaali kutsuu lokakuussa tutkimaan Helsinkiä kävellen!",
-      "link": "https://kaupunginosat.fi/artova/helsingin-kavelyfestivaali-kutsuu-lokakuussa-tutkimaan-helsinkia-kavellen/",
-      "iso": "2026-10-01T07:55:30+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
       "title": "Roosa Nauha 💗 Lindex",
       "link": "https://kauppakeskusarabia.fi/roosanauhalindex/",
       "iso": "2026-10-01T06:30:35+00:00",
@@ -160,18 +142,6 @@
       "src": "Google News"
     },
     {
-      "title": "Pohjois-Helsingin bussilinjaston uudistaminen on alkanut",
-      "link": "https://kaupunginosat.fi/artova/pohjois-helsingin-bussilinjaston-uudistaminen-on-alkanut/",
-      "iso": "2026-09-16T12:35:35+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "🚋 Ratikka Arabiaan 100 vuotta! 🎉",
-      "link": "https://kaupunginosat.fi/artova/%f0%9f%9a%8b-ratikka-arabiaan-100-vuotta-%f0%9f%8e%89/",
-      "iso": "2026-09-16T08:55:44+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
       "title": "Speed Photon valokuva-automaatti avautuu Arabiaan lokakuussa",
       "link": "https://kauppakeskusarabia.fi/speed-photon-valokuva-automaatti-avautuu-arabiaan-lokakuussa/",
       "iso": "2026-09-15T08:19:27+00:00",
@@ -182,6 +152,36 @@
       "link": "https://kauppakeskusarabia.fi/uusi-kerrostalo-valmistuu-arabian-ytimeen-vastuullista-asumista-palveluiden-keskella/",
       "iso": "2026-09-14T09:18:37+00:00",
       "src": "Kauppakeskus Arabia"
+    },
+    {
+      "title": "Arabianrantaan valmistuu maamerkki, joka on lähes täynnä yksiöitä – tutkija: \"Käsittämätöntä\" | Paikalliset - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HZWZmcy1zb1RMRGI5Z21NQkE1Tk1odkpCZm5wV0FiSEw4c2tiamF2TVI5NWV1RVZ1ZzFiTkRwQmxfZEg3Y01iZ0dOTnAzd1hPbFFUYTFfTTV1NVAzMjRIdw?oc=5",
+      "iso": "2026-09-13T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Seniorikahvila Kääntöpaikalla maanantaisin",
+      "link": "https://kaantopaikka.fi/seniorikahvila/",
+      "iso": "2026-09-08T10:29:15+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Kääntöpaikalla joka viikko Touhutorstai!",
+      "link": "https://kaantopaikka.fi/kaantopaikalla-touhu-torstai/",
+      "iso": "2026-09-07T10:38:53+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Taiteilijahaku -2027 Open call -2027",
+      "link": "https://kaantopaikka.fi/taiteilijahaku-2027-open-call-2027/",
+      "iso": "2026-09-07T10:16:12+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Käsityöryhmä Kääntöpaikkaajat kokoontuu joka toinen keskiviikko",
+      "link": "https://kaantopaikka.fi/kaantopaikkaajat/",
+      "iso": "2026-09-07T09:37:34+00:00",
+      "src": "Kylätalo Kääntöpaikka"
     }
   ]
 }
