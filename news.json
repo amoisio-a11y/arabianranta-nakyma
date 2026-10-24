@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T22:26:39.616634+00:00",
+  "generated": "2026-10-24T00:54:22.069815+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -100,12 +100,6 @@
       "src": "Google News"
     },
     {
-      "title": "SDP:n kaupunginhallitusryhmä: Baanoja suunniteltaessa on huomioitava asukkaiden mielipiteet ja turvallisuus - STT Info",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQU1M0QzVUQUQzV0ZObXpmLVRaYzc1WXctb1FfOVVCZGRGbktNSFpkUVVyRWlBTDdHUkg1SEJLMW45cmoyampSV1hpLV83N2pLR2pTeG5CWmJpMDFnakhyQWVYX3R3WlVlQ3NtMWVkNmVrcGNzYzNzbld6ZnlRNk1QdkV3R182Yld1aFFUWVJzb045bkoweEhwaTRFWjFNTGlzckJsekZQbUdwVG9OeVBZWnZScXByaDZlblFFclp3QWliaW42TkRqREpPSzBYVTlMVEN0UzJzZmNpSno2VUZOQ2FpMHptZV93cU10cVRrY3NJS2pKR29qdC1MdldWTVhZUWY2NA?oc=5",
-      "iso": "2026-10-05T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Kahvikonsertti 21.10.",
       "link": "https://kaantopaikka.fi/kahvikonsertti-21-10/",
       "iso": "2026-10-02T11:48:12+00:00",
@@ -182,6 +176,12 @@
       "link": "https://kauppakeskusarabia.fi/uusi-kerrostalo-valmistuu-arabian-ytimeen-vastuullista-asumista-palveluiden-keskella/",
       "iso": "2026-09-14T09:18:37+00:00",
       "src": "Kauppakeskus Arabia"
+    },
+    {
+      "title": "Arabianrantaan valmistuu maamerkki, joka on lähes täynnä yksiöitä – tutkija: \"Käsittämätöntä\" - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HZWZmcy1zb1RMRGI5Z21NQkE1Tk1odkpCZm5wV0FiSEw4c2tiamF2TVI5NWV1RVZ1ZzFiTkRwQmxfZEg3Y01iZ0dOTnAzd1hPbFFUYTFfTTV1NVAzMjRIdw?oc=5",
+      "iso": "2026-09-13T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
