@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T23:42:18.338179+00:00",
+  "generated": "2026-10-25T01:39:35.862760+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -148,6 +148,18 @@
       "src": "Kylätalo Kääntöpaikka"
     },
     {
+      "title": "Helsinki | Ränsistynyt arvohuvila Kumpulassa myytiin 15 000 eurolla, nyt alkaa valtava urakka - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2cVRQeUlDTjRzLU9xUjJldTBHakRkV1M5QjZ0N1BocFpvT0lxWUFwSV9uYnNmTlRjTC1NSV8tR1Z2SndGMFJMaTZOaEwzZU5MRXl5M1QwMGlrbDBqLVE?oc=5",
+      "iso": "2026-09-28T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Helsinki sai myytyä päihdehuoltoyksikkönä toimineen talon – hinta 400 000 euroa - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CN3FkbFFneTNUc1Q2SC05b2RRSnV2MEdoUjhFT0UyYVowQmxpQ2dSWmtpcjhsdUI4MDlTcFE5TnlHdy1QUHRDLUhnRWUxOHNBUWRhNFFLazR2UktJY3ZHSg?oc=5",
+      "iso": "2026-09-17T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Pohjois-Helsingin bussilinjaston uudistaminen on alkanut",
       "link": "https://kaupunginosat.fi/artova/pohjois-helsingin-bussilinjaston-uudistaminen-on-alkanut/",
       "iso": "2026-09-16T12:35:35+00:00",
@@ -170,18 +182,6 @@
       "link": "https://kauppakeskusarabia.fi/uusi-kerrostalo-valmistuu-arabian-ytimeen-vastuullista-asumista-palveluiden-keskella/",
       "iso": "2026-09-14T09:18:37+00:00",
       "src": "Kauppakeskus Arabia"
-    },
-    {
-      "title": "Arabianrantaan valmistuu maamerkki, joka on lähes täynnä yksiöitä – tutkija: \"Käsittämätöntä\" - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HZWZmcy1zb1RMRGI5Z21NQkE1Tk1odkpCZm5wV0FiSEw4c2tiamF2TVI5NWV1RVZ1ZzFiTkRwQmxfZEg3Y01iZ0dOTnAzd1hPbFFUYTFfTTV1NVAzMjRIdw?oc=5",
-      "iso": "2026-09-13T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Seniorikahvila Kääntöpaikalla maanantaisin",
-      "link": "https://kaantopaikka.fi/seniorikahvila/",
-      "iso": "2026-09-08T10:29:15+00:00",
-      "src": "Kylätalo Kääntöpaikka"
     }
   ]
 }
