@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29T11:45:44.715659+00:00",
+  "generated": "2026-10-29T17:50:05.494862+00:00",
   "count": 30,
   "failed": 2,
   "items": [
@@ -124,12 +124,6 @@
       "src": "Google News"
     },
     {
-      "title": "Helsinki sai myytyä päihdehuoltoyksikkönä toimineen talon – hinta 400 000 euroa - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CN3FkbFFneTNUc1Q2SC05b2RRSnV2MEdoUjhFT0UyYVowQmxpQ2dSWmtpcjhsdUI4MDlTcFE5TnlHdy1QUHRDLUhnRWUxOHNBUWRhNFFLazR2UktJY3ZHSg?oc=5",
-      "iso": "2026-09-17T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Pohjois-Helsingin bussilinjaston uudistaminen on alkanut",
       "link": "https://kaupunginosat.fi/artova/pohjois-helsingin-bussilinjaston-uudistaminen-on-alkanut/",
       "iso": "2026-09-16T12:35:35+00:00",
@@ -166,12 +160,6 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Konsertti Kumpulan kasvitieteellisen puutarhan lähistöllä perjantaina 4. syyskuuta - Helsinki.fi",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdGdCNVlxVGpHY1BqT1Z6dVJNTnRXXzk2dzFDbWNQcVp0R2xmaERpeERZbmI0M1RPMGsycm5iQTV1Q2JRNW1VMlN0VkZKdFAzM2N3cXFfX3hDVXFVVjFpbS1VN0pWcDNUSjFwa0pxMDZMYVRGUl9RcmdabnRlVjZ0MmZXRVZsNmQyQlF0Vy1YekNIdTIwbUhPVWg2cnVSRm9rQVAyNE52TGxEMmh2REFMdWVEX0hOVVd1V2tPUF9hbUhoeHZFQVF0VnpNUDlGbG05NlZz?oc=5",
-      "iso": "2026-09-04T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Levysoittorasia: Musikaalinen aikamatka menneisyyteen",
       "link": "https://www.tekniikanmuseo.fi/levysoittorasia-musikaalinen-aikamatka-menneisyyteen/",
       "iso": "2026-08-26T10:30:28+00:00",
@@ -182,6 +170,18 @@
       "link": "https://kauppakeskusarabia.fi/syyspidot-kutsuvat-koko-perheen-arabiaan-5-9/",
       "iso": "2026-08-26T04:07:05+00:00",
       "src": "Kauppakeskus Arabia"
+    },
+    {
+      "title": "ALKU&JUURI PUOTI SIJAITSEE PASILASSA",
+      "link": "https://hyotykasviyhdistys.fi/tapahtumat/puoti-aukeaa-uudessa-osoitteessa/",
+      "iso": "2026-08-25T13:39:29+00:00",
+      "src": "Annalan huvila"
+    },
+    {
+      "title": "100 vuotta jazzia Suomessa!",
+      "link": "https://kaupunginosat.fi/artova/100-vuotta-jazzia-suomessa/",
+      "iso": "2026-08-25T11:14:15+00:00",
+      "src": "Kaupunginosat.fi"
     }
   ]
 }
