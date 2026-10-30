@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T08:05:22.120308+00:00",
+  "generated": "2026-10-30T15:01:02.363893+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -160,6 +160,12 @@
       "src": "Google News"
     },
     {
+      "title": "Helsinki sai myytyä päihdehuoltoyksikkönä toimineen talon – hinta 400 000 euroa - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CN3FkbFFneTNUc1Q2SC05b2RRSnV2MEdoUjhFT0UyYVowQmxpQ2dSWmtpcjhsdUI4MDlTcFE5TnlHdy1QUHRDLUhnRWUxOHNBUWRhNFFLazR2UktJY3ZHSg?oc=5",
+      "iso": "2026-09-17T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Pohjois-Helsingin bussilinjaston uudistaminen on alkanut",
       "link": "https://kaupunginosat.fi/artova/pohjois-helsingin-bussilinjaston-uudistaminen-on-alkanut/",
       "iso": "2026-09-16T12:35:35+00:00",
@@ -175,12 +181,6 @@
       "title": "Speed Photon valokuva-automaatti avautuu Arabiaan lokakuussa",
       "link": "https://kauppakeskusarabia.fi/speed-photon-valokuva-automaatti-avautuu-arabiaan-lokakuussa/",
       "iso": "2026-09-15T08:19:27+00:00",
-      "src": "Kauppakeskus Arabia"
-    },
-    {
-      "title": "Uusi kerrostalo valmistuu Arabian ytimeen – vastuullista asumista palveluiden keskellä",
-      "link": "https://kauppakeskusarabia.fi/uusi-kerrostalo-valmistuu-arabian-ytimeen-vastuullista-asumista-palveluiden-keskella/",
-      "iso": "2026-09-14T09:18:37+00:00",
       "src": "Kauppakeskus Arabia"
     }
   ]
