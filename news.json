@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T01:59:06.738852+00:00",
+  "generated": "2026-11-04T08:45:48.209389+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -56,12 +56,6 @@
       "link": "https://www.hel.fi/fi/uutiset/vanhankaupunginkosken-padon-purkamisen-vaikutukset-selvitetty",
       "iso": "2026-10-21T06:32:04+00:00",
       "src": "Helsingin kaupunki"
-    },
-    {
-      "title": "Taikuri Kari – iloa, naurua ja taikuuden taikaa kaikenikäisille!",
-      "link": "https://arabia135.fi/ajankohtaista/tapahtumat/taikuri-kari-iloa-naurua-ja-taikuuden-taikaa-kaikenikaisille/",
-      "iso": "2026-10-21T06:04:48+00:00",
-      "src": "Arabia 135"
     },
     {
       "title": "Ruohonjuurisarjakuvan kurssi 28.11.2026",
@@ -181,6 +175,12 @@
       "title": "Pohjois-Helsingin bussilinjaston uudistaminen on alkanut",
       "link": "https://kaupunginosat.fi/artova/pohjois-helsingin-bussilinjaston-uudistaminen-on-alkanut/",
       "iso": "2026-09-16T12:35:35+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "🚋 Ratikka Arabiaan 100 vuotta! 🎉",
+      "link": "https://kaupunginosat.fi/artova/%f0%9f%9a%8b-ratikka-arabiaan-100-vuotta-%f0%9f%8e%89/",
+      "iso": "2026-09-16T08:55:44+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
