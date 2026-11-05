@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05T09:43:32.214895+00:00",
+  "generated": "2026-11-05T17:39:37.528953+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -44,12 +44,6 @@
       "link": "https://kaupunginosat.fi/artova/kekri-tulee-taas-uskallatko-mukaan-%f0%9f%90%90/",
       "iso": "2026-10-26T14:15:50+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "SÄÄNTÖMÄÄRÄINEN SYYSKOKOUS",
-      "link": "https://hyotykasviyhdistys.fi/tapahtumat/saantomaarainen-syyskokous-2/",
-      "iso": "2026-10-22T14:09:37+00:00",
-      "src": "Annalan huvila"
     },
     {
       "title": "Tervetuloa käsityömyyjäisiin la 21.11.!",
@@ -182,6 +176,12 @@
       "link": "https://kaupunginosat.fi/artova/%f0%9f%9a%8b-ratikka-arabiaan-100-vuotta-%f0%9f%8e%89/",
       "iso": "2026-09-16T08:55:44+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Speed Photon valokuva-automaatti avautuu Arabiaan lokakuussa",
+      "link": "https://kauppakeskusarabia.fi/speed-photon-valokuva-automaatti-avautuu-arabiaan-lokakuussa/",
+      "iso": "2026-09-15T08:19:27+00:00",
+      "src": "Kauppakeskus Arabia"
     }
   ]
 }
