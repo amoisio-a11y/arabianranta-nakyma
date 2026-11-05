@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-04T22:12:16.325976+00:00",
+  "generated": "2026-11-05T02:26:56.405941+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Marraskuun unelmia Kääntöpaikan Galleriatilassa",
+      "link": "https://kaantopaikka.fi/marraskuun-unelmia-kaantopaikan-galleriatilassa/",
+      "iso": "2026-11-04T22:55:30+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
     {
       "title": "Jatkeen Urban Partnersille rakentama Juli Arabianrannan Illuusio valmis | Jatke Oy - STT Info",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdVlNMTVaMTNleGloRl90TVAwVzNsWURObXd6N2dGa0pNcFlaYXd6cUhBNEt0YXlDT21KbFM1a0tsWXJ6TUJxcmppbDJmZmhXdUpvSlJ5akRicm5jWHpUendTVHVYeXl6UWhSZGNRMXdCdDMwSktPa2hRLTU4RXRlQUNUZEJkRG5IWEg3d241X2pwclAyY0Q5QUU3MHR5MTR2MnI4X2hVVkRGYVlGdkpNWF9OQlRfNklMX0t3U3JNZjZTNXBEX2pjMVctdkNvTHVIdUR2enF3SQ?oc=5",
@@ -176,12 +182,6 @@
       "link": "https://kaupunginosat.fi/artova/%f0%9f%9a%8b-ratikka-arabiaan-100-vuotta-%f0%9f%8e%89/",
       "iso": "2026-09-16T08:55:44+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Speed Photon valokuva-automaatti avautuu Arabiaan lokakuussa",
-      "link": "https://kauppakeskusarabia.fi/speed-photon-valokuva-automaatti-avautuu-arabiaan-lokakuussa/",
-      "iso": "2026-09-15T08:19:27+00:00",
-      "src": "Kauppakeskus Arabia"
     }
   ]
 }
