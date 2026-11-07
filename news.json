@@ -1,8 +1,20 @@
 {
-  "generated": "2026-11-07T08:43:12.491846+00:00",
+  "generated": "2026-11-07T15:11:25.781970+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Artova ry:n syyskokous 2026",
+      "link": "https://kaupunginosat.fi/artova/artova-ryn-syyskokous-2026/",
+      "iso": "2026-11-07T12:41:07+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Kruunusiltojen ratikkaliikenne alkaa – uusia yhteyksiä myös Arabianrantaan!",
+      "link": "https://kaupunginosat.fi/artova/kruunusiltojen-ratikkaliikenne-alkaa-uusia-yhteyksia-myos-arabianrantaan/",
+      "iso": "2026-11-07T12:15:31+00:00",
+      "src": "Kaupunginosat.fi"
+    },
     {
       "title": "Marraskuun unelmia Kääntöpaikan Galleriatilassa",
       "link": "https://kaantopaikka.fi/marraskuun-unelmia-kaantopaikan-galleriatilassa/",
@@ -170,18 +182,6 @@
       "link": "https://kaupunginosat.fi/artova/pohjois-helsingin-bussilinjaston-uudistaminen-on-alkanut/",
       "iso": "2026-09-16T12:35:35+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "🚋 Ratikka Arabiaan 100 vuotta! 🎉",
-      "link": "https://kaupunginosat.fi/artova/%f0%9f%9a%8b-ratikka-arabiaan-100-vuotta-%f0%9f%8e%89/",
-      "iso": "2026-09-16T08:55:44+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Speed Photon valokuva-automaatti avautuu Arabiaan lokakuussa",
-      "link": "https://kauppakeskusarabia.fi/speed-photon-valokuva-automaatti-avautuu-arabiaan-lokakuussa/",
-      "iso": "2026-09-15T08:19:27+00:00",
-      "src": "Kauppakeskus Arabia"
     }
   ]
 }
