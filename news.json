@@ -1,8 +1,20 @@
 {
-  "generated": "2026-11-11T06:06:13.271554+00:00",
+  "generated": "2026-11-11T14:12:20.304252+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Jouluinen yhteyspelirieha 12.12. klo 16.30-22!",
+      "link": "https://kaantopaikka.fi/jouluinen-yhteyspelirieha-12-12-klo-16-30-22/",
+      "iso": "2026-11-11T10:08:59+00:00",
+      "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Pinta-joulumyyjäiset saapuvat Helsinkiin!",
+      "link": "https://kaupunginosat.fi/artova/pinta-joulumyyjaiset-saapuvat-helsinkiin/",
+      "iso": "2026-11-11T09:04:18+00:00",
+      "src": "Kaupunginosat.fi"
+    },
     {
       "title": "Artova ry:n syyskokous 2026",
       "link": "https://kaupunginosat.fi/artova/artova-ryn-syyskokous-2026/",
@@ -170,18 +182,6 @@
       "link": "https://kaantopaikka.fi/poetry-and-literature-meetup/",
       "iso": "2026-09-28T11:35:41+00:00",
       "src": "Kylätalo Kääntöpaikka"
-    },
-    {
-      "title": "Helsinki | Ränsistynyt arvohuvila Kumpulassa myytiin 15 000 eurolla, nyt alkaa valtava urakka - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2cVRQeUlDTjRzLU9xUjJldTBHakRkV1M5QjZ0N1BocFpvT0lxWUFwSV9uYnNmTlRjTC1NSV8tR1Z2SndGMFJMaTZOaEwzZU5MRXl5M1QwMGlrbDBqLVE?oc=5",
-      "iso": "2026-09-28T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Pohjois-Helsingin bussilinjaston uudistaminen on alkanut",
-      "link": "https://kaupunginosat.fi/artova/pohjois-helsingin-bussilinjaston-uudistaminen-on-alkanut/",
-      "iso": "2026-09-16T12:35:35+00:00",
-      "src": "Kaupunginosat.fi"
     }
   ]
 }
