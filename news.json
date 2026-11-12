@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-12T10:00:16.741407+00:00",
+  "generated": "2026-11-12T18:01:22.725226+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Mainio & Glope Hope Design Sale – Pop Up 12. -14.11",
+      "link": "https://arabia135.fi/ajankohtaista/tapahtumat/mainio-glope-hope-design-sale-pop-up-12-14-11/",
+      "iso": "2026-11-12T10:46:21+00:00",
+      "src": "Arabia 135"
+    },
     {
       "title": "Jouluinen yhteyspelirieha 12.12. klo 16.30-22!",
       "link": "https://kaantopaikka.fi/jouluinen-yhteyspelirieha-12-12-klo-16-30-22/",
@@ -58,12 +64,6 @@
       "src": "Kylätalo Kääntöpaikka"
     },
     {
-      "title": "Kappas! Tiedon klubi tuo Tommi Niemisen Arabiaan – millainen supervalta Intiasta on tulossa?",
-      "link": "https://arabia135.fi/ajankohtaista/tapahtumat/kappas-tiedon-klubi-tuo-tommi-niemisen-arabiaan-millainen-supervalta-intiasta-on-tulossa/",
-      "iso": "2026-10-28T06:01:45+00:00",
-      "src": "Arabia 135"
-    },
-    {
       "title": "Kekri tulee taas – uskallatko mukaan? 🐐",
       "link": "https://kaupunginosat.fi/artova/kekri-tulee-taas-uskallatko-mukaan-%f0%9f%90%90/",
       "iso": "2026-10-26T14:15:50+00:00",
@@ -91,12 +91,6 @@
       "title": "Pikkujoulut Luovuuden Korttelissa",
       "link": "https://arabia135.fi/ajankohtaista/tapahtumat/pikkujoulut-luovuuden-korttelissa/",
       "iso": "2026-10-16T11:32:49+00:00",
-      "src": "Arabia 135"
-    },
-    {
-      "title": "Isänpäiväbrunssi Leimussa",
-      "link": "https://arabia135.fi/ajankohtaista/tiedotteet-artikkelit/isanpaivabrunssi-leimussa/",
-      "iso": "2026-10-16T09:24:43+00:00",
       "src": "Arabia 135"
     },
     {
@@ -182,6 +176,12 @@
       "link": "https://kaantopaikka.fi/poetry-and-literature-meetup/",
       "iso": "2026-09-28T11:35:41+00:00",
       "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Helsinki | Ränsistynyt arvohuvila Kumpulassa myytiin 15 000 eurolla, nyt alkaa valtava urakka - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2cVRQeUlDTjRzLU9xUjJldTBHakRkV1M5QjZ0N1BocFpvT0lxWUFwSV9uYnNmTlRjTC1NSV8tR1Z2SndGMFJMaTZOaEwzZU5MRXl5M1QwMGlrbDBqLVE?oc=5",
+      "iso": "2026-09-28T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
