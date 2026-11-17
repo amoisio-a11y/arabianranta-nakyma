@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T00:30:34.776773+00:00",
+  "generated": "2026-11-17T08:28:24.168185+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -8,12 +8,6 @@
       "link": "https://kaantopaikka.fi/kaantopaikan-kielikahvila/",
       "iso": "2026-11-16T13:49:29+00:00",
       "src": "Kylätalo Kääntöpaikka"
-    },
-    {
-      "title": "Mainio & Glope Hope Design Sale – Pop Up 12. -14.11",
-      "link": "https://arabia135.fi/ajankohtaista/tapahtumat/mainio-glope-hope-design-sale-pop-up-12-14-11/",
-      "iso": "2026-11-12T10:46:21+00:00",
-      "src": "Arabia 135"
     },
     {
       "title": "Jouluinen yhteyspelirieha 12.12. klo 16.30-22!",
@@ -182,6 +176,12 @@
       "link": "https://kaupunginosat.fi/artova/%f0%9f%9a%8b-ratikka-arabiaan-100-vuotta-%f0%9f%8e%89/",
       "iso": "2026-09-16T08:55:44+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Speed Photon valokuva-automaatti avautuu Arabiaan lokakuussa",
+      "link": "https://kauppakeskusarabia.fi/speed-photon-valokuva-automaatti-avautuu-arabiaan-lokakuussa/",
+      "iso": "2026-09-15T08:19:27+00:00",
+      "src": "Kauppakeskus Arabia"
     }
   ]
 }
