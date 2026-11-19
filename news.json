@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-19T13:01:22.109785+00:00",
+  "generated": "2026-11-19T21:28:26.774744+00:00",
   "count": 30,
-  "failed": 2,
+  "failed": 4,
   "items": [
     {
       "title": "Arabian katufestivaali etsii osa-alue tuottajia ajalle 1.1.–31.5.2027!",
@@ -88,12 +88,6 @@
       "src": "Kylätalo Kääntöpaikka"
     },
     {
-      "title": "Vanhankaupunginkosken padon purkamisen vaikutukset selvitetty",
-      "link": "https://www.hel.fi/fi/uutiset/vanhankaupunginkosken-padon-purkamisen-vaikutukset-selvitetty",
-      "iso": "2026-10-21T06:32:04+00:00",
-      "src": "Helsingin kaupunki"
-    },
-    {
       "title": "Ruohonjuurisarjakuvan kurssi 28.11.2026",
       "link": "https://kaantopaikka.fi/ruohonjuurisarjakuvan-kurssi-28-11-2026/",
       "iso": "2026-10-19T07:22:00+00:00",
@@ -160,12 +154,6 @@
       "src": "Kylätalo Kääntöpaikka"
     },
     {
-      "title": "Helsinki | Ränsistynyt arvohuvila Kumpulassa myytiin 15 000 eurolla, nyt alkaa valtava urakka - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2cVRQeUlDTjRzLU9xUjJldTBHakRkV1M5QjZ0N1BocFpvT0lxWUFwSV9uYnNmTlRjTC1NSV8tR1Z2SndGMFJMaTZOaEwzZU5MRXl5M1QwMGlrbDBqLVE?oc=5",
-      "iso": "2026-09-28T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Pohjois-Helsingin bussilinjaston uudistaminen on alkanut",
       "link": "https://kaupunginosat.fi/artova/pohjois-helsingin-bussilinjaston-uudistaminen-on-alkanut/",
       "iso": "2026-09-16T12:35:35+00:00",
@@ -182,6 +170,18 @@
       "link": "https://kauppakeskusarabia.fi/speed-photon-valokuva-automaatti-avautuu-arabiaan-lokakuussa/",
       "iso": "2026-09-15T08:19:27+00:00",
       "src": "Kauppakeskus Arabia"
+    },
+    {
+      "title": "Uusi kerrostalo valmistuu Arabian ytimeen – vastuullista asumista palveluiden keskellä",
+      "link": "https://kauppakeskusarabia.fi/uusi-kerrostalo-valmistuu-arabian-ytimeen-vastuullista-asumista-palveluiden-keskella/",
+      "iso": "2026-09-14T09:18:37+00:00",
+      "src": "Kauppakeskus Arabia"
+    },
+    {
+      "title": "Seniorikahvila Kääntöpaikalla maanantaisin",
+      "link": "https://kaantopaikka.fi/seniorikahvila/",
+      "iso": "2026-09-08T10:29:15+00:00",
+      "src": "Kylätalo Kääntöpaikka"
     }
   ]
 }
