@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-24T05:58:23.706951+00:00",
+  "generated": "2026-11-24T17:01:59.537376+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 1,
   "items": [
+    {
+      "title": "Luovuuden korttelin joulu",
+      "link": "https://arabia135.fi/ajankohtaista/tapahtumat/luovuuden-korttelin-joulu/",
+      "iso": "2026-11-24T09:54:55+00:00",
+      "src": "Arabia 135"
+    },
     {
       "title": "Arabian katufestivaali etsii osa-alue tuottajia ajalle 1.1.–31.5.2027!",
       "link": "https://kaupunginosat.fi/artova/arabian-katufestivaali-etsii-osa-alue-tuottajia-ajalle-1-1-31-5-2027/",
@@ -176,12 +182,6 @@
       "link": "https://kauppakeskusarabia.fi/roosanauhalindex/",
       "iso": "2026-10-01T06:30:35+00:00",
       "src": "Kauppakeskus Arabia"
-    },
-    {
-      "title": "Poetry and literature meetup",
-      "link": "https://kaantopaikka.fi/poetry-and-literature-meetup/",
-      "iso": "2026-09-28T11:35:41+00:00",
-      "src": "Kylätalo Kääntöpaikka"
     }
   ]
 }
