@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-25T01:24:50.181574+00:00",
+  "generated": "2026-11-25T10:01:46.693410+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Lola & Lykken joulumyyjäiset 3.12. klo 10-15! 🎄",
+      "link": "https://arabia135.fi/ajankohtaista/tapahtumat/lola-lykken-joulumyyjaiset-3-12-klo-10-15-%f0%9f%8e%84/",
+      "iso": "2026-11-25T08:30:29+00:00",
+      "src": "Arabia 135"
+    },
     {
       "title": "Luovuuden korttelin joulu",
       "link": "https://arabia135.fi/ajankohtaista/tapahtumat/luovuuden-korttelin-joulu/",
@@ -32,6 +38,12 @@
       "link": "https://kaantopaikka.fi/kaantopaikan-kielikahvila/",
       "iso": "2026-11-16T13:49:29+00:00",
       "src": "Kylätalo Kääntöpaikka"
+    },
+    {
+      "title": "Pasila Asema [Helsinki] > Kumpula julkisella liikenteellä - Moovit",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DYTZqVkxQT1V2ZVRGakxEOFFTUkI4ekdUeFU3LS1OZzdRSGYyOFV6d0c5cndUSVF1TloxV2NFc3NpVktzcnE5aXRad0NMZWs1ZnJlX3FUV3Q1NUExRHhGcWZ6OVZTWndpYUZZc2pvZXVTUEl2b1VlWk1qdzQ0Zw?oc=5",
+      "iso": "2026-11-15T10:54:52+00:00",
+      "src": "Google News"
     },
     {
       "title": "Jouluinen yhteyspelirieha 12.12. klo 16.30-22!",
@@ -170,18 +182,6 @@
       "link": "https://kaupunginosat.fi/artova/artova-jarjestaa-asukasillan-6-10-liittyen-arabianbaanan-suunnitelmiin/",
       "iso": "2026-10-01T08:12:46+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Helsingin kävelyfestivaali kutsuu lokakuussa tutkimaan Helsinkiä kävellen!",
-      "link": "https://kaupunginosat.fi/artova/helsingin-kavelyfestivaali-kutsuu-lokakuussa-tutkimaan-helsinkia-kavellen/",
-      "iso": "2026-10-01T07:55:30+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Roosa Nauha 💗 Lindex",
-      "link": "https://kauppakeskusarabia.fi/roosanauhalindex/",
-      "iso": "2026-10-01T06:30:35+00:00",
-      "src": "Kauppakeskus Arabia"
     }
   ]
 }
