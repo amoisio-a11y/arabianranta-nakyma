@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-27T20:32:12.588965+00:00",
+  "generated": "2026-11-28T02:57:13.911416+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 2,
   "items": [
     {
       "title": "Lola & Lykken joulumyyjäiset 3.12. klo 10-15! 🎄",
@@ -16,6 +16,12 @@
       "src": "Arabia 135"
     },
     {
+      "title": "Kumpulan tutkijoille 1,2 miljoonaa euroa suurteholaskentaan - helsinki.fi",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdWNlNHZkelo4aVlvSk4yUHotX3h5dVBka1JtSkhLN1JPcEc2WmNHSTRuMk5oZTZXZEh6OEdDTDJYQndMWkczakdINVpSdE5ibUZVczNfTW9mSVFlWU9VRG5aMFJXQ2kwMUozbTJUOEZIdzgtcG5TSGtxRmdZbUhjTVJSWGh3R0duSUxkdEdSbW16dHQycXpFZGRjMGNxN3hERV9NTmJQcmlXU0dDYmtadnJjajYwTmtLMUdfSk44ZHFKM2hNYlJ1bk14REtwbmtnVER1RjBzNHlkdw?oc=5",
+      "iso": "2026-11-23T12:21:26+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Arabian katufestivaali etsii osa-alue tuottajia ajalle 1.1.–31.5.2027!",
       "link": "https://kaupunginosat.fi/artova/arabian-katufestivaali-etsii-osa-alue-tuottajia-ajalle-1-1-31-5-2027/",
       "iso": "2026-11-18T13:00:36+00:00",
@@ -26,24 +32,6 @@
       "link": "https://kauppakeskusarabia.fi/mytajaisten-kotileipomo-avaa-ovensa-arabiassa-1-12/",
       "iso": "2026-11-17T17:09:56+00:00",
       "src": "Kauppakeskus Arabia"
-    },
-    {
-      "title": "Yhteispiha 13: Pajujen alasleikkuu",
-      "link": "https://arabianpalvelu.fi/yhteispiha-13-pajujen-alasleikkuu/",
-      "iso": "2026-11-17T13:03:56+00:00",
-      "src": "Arabian Palvelu"
-    },
-    {
-      "title": "Kielikahvila Kääntöpaikalla keskiviikkoisin!",
-      "link": "https://kaantopaikka.fi/kaantopaikan-kielikahvila/",
-      "iso": "2026-11-16T13:49:29+00:00",
-      "src": "Kylätalo Kääntöpaikka"
-    },
-    {
-      "title": "Jouluinen yhteyspelirieha 12.12. klo 16.30-22!",
-      "link": "https://kaantopaikka.fi/jouluinen-yhteyspelirieha-12-12-klo-16-30-22/",
-      "iso": "2026-11-11T10:08:59+00:00",
-      "src": "Kylätalo Kääntöpaikka"
     },
     {
       "title": "Pinta-joulumyyjäiset saapuvat Helsinkiin!",
@@ -64,12 +52,6 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Marraskuun unelmia Kääntöpaikan Galleriatilassa",
-      "link": "https://kaantopaikka.fi/marraskuun-unelmia-kaantopaikan-galleriatilassa/",
-      "iso": "2026-11-04T22:55:30+00:00",
-      "src": "Kylätalo Kääntöpaikka"
-    },
-    {
       "title": "Jatkeen Urban Partnersille rakentama Juli Arabianrannan Illuusio valmis | Jatke Oy - STT Info",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdVlNMTVaMTNleGloRl90TVAwVzNsWURObXd6N2dGa0pNcFlaYXd6cUhBNEt0YXlDT21KbFM1a0tsWXJ6TUJxcmppbDJmZmhXdUpvSlJ5akRicm5jWHpUendTVHVYeXl6UWhSZGNRMXdCdDMwSktPa2hRLTU4RXRlQUNUZEJkRG5IWEg3d241X2pwclAyY0Q5QUU3MHR5MTR2MnI4X2hVVkRGYVlGdkpNWF9OQlRfNklMX0t3U3JNZjZTNXBEX2pjMVctdkNvTHVIdUR2enF3SQ?oc=5",
       "iso": "2026-11-03T08:00:00+00:00",
@@ -88,34 +70,16 @@
       "src": "Arabia 135"
     },
     {
-      "title": "Kääntöpaikka tarvitsee tukeasi! Osallistu keräykseen!",
-      "link": "https://kaantopaikka.fi/kaantopaikka-tarvitsee-tukeasi-osallistu-keraykseen/",
-      "iso": "2026-10-28T08:03:10+00:00",
-      "src": "Kylätalo Kääntöpaikka"
-    },
-    {
       "title": "Kekri tulee taas – uskallatko mukaan? 🐐",
       "link": "https://kaupunginosat.fi/artova/kekri-tulee-taas-uskallatko-mukaan-%f0%9f%90%90/",
       "iso": "2026-10-26T14:15:50+00:00",
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Tervetuloa käsityömyyjäisiin la 21.11.!",
-      "link": "https://kaantopaikka.fi/kasityomyyjaiset-lauantaina-21-11-26-klo-11-15/",
-      "iso": "2026-10-22T13:33:24+00:00",
-      "src": "Kylätalo Kääntöpaikka"
-    },
-    {
       "title": "Vanhankaupunginkosken padon purkamisen vaikutukset selvitetty",
       "link": "https://www.hel.fi/fi/uutiset/vanhankaupunginkosken-padon-purkamisen-vaikutukset-selvitetty",
       "iso": "2026-10-21T06:32:04+00:00",
       "src": "Helsingin kaupunki"
-    },
-    {
-      "title": "Ruohonjuurisarjakuvan kurssi 28.11.2026",
-      "link": "https://kaantopaikka.fi/ruohonjuurisarjakuvan-kurssi-28-11-2026/",
-      "iso": "2026-10-19T07:22:00+00:00",
-      "src": "Kylätalo Kääntöpaikka"
     },
     {
       "title": "Pikkujoulut Luovuuden Korttelissa",
@@ -182,6 +146,42 @@
       "link": "https://kaupunginosat.fi/artova/helsingin-kavelyfestivaali-kutsuu-lokakuussa-tutkimaan-helsinkia-kavellen/",
       "iso": "2026-10-01T07:55:30+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Roosa Nauha 💗 Lindex",
+      "link": "https://kauppakeskusarabia.fi/roosanauhalindex/",
+      "iso": "2026-10-01T06:30:35+00:00",
+      "src": "Kauppakeskus Arabia"
+    },
+    {
+      "title": "Helsinki | Ränsistynyt arvohuvila Kumpulassa myytiin 15 000 eurolla, nyt alkaa valtava urakka - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2cVRQeUlDTjRzLU9xUjJldTBHakRkV1M5QjZ0N1BocFpvT0lxWUFwSV9uYnNmTlRjTC1NSV8tR1Z2SndGMFJMaTZOaEwzZU5MRXl5M1QwMGlrbDBqLVE?oc=5",
+      "iso": "2026-09-28T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Pohjois-Helsingin bussilinjaston uudistaminen on alkanut",
+      "link": "https://kaupunginosat.fi/artova/pohjois-helsingin-bussilinjaston-uudistaminen-on-alkanut/",
+      "iso": "2026-09-16T12:35:35+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "🚋 Ratikka Arabiaan 100 vuotta! 🎉",
+      "link": "https://kaupunginosat.fi/artova/%f0%9f%9a%8b-ratikka-arabiaan-100-vuotta-%f0%9f%8e%89/",
+      "iso": "2026-09-16T08:55:44+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Speed Photon valokuva-automaatti avautuu Arabiaan lokakuussa",
+      "link": "https://kauppakeskusarabia.fi/speed-photon-valokuva-automaatti-avautuu-arabiaan-lokakuussa/",
+      "iso": "2026-09-15T08:19:27+00:00",
+      "src": "Kauppakeskus Arabia"
+    },
+    {
+      "title": "Uusi kerrostalo valmistuu Arabian ytimeen – vastuullista asumista palveluiden keskellä",
+      "link": "https://kauppakeskusarabia.fi/uusi-kerrostalo-valmistuu-arabian-ytimeen-vastuullista-asumista-palveluiden-keskella/",
+      "iso": "2026-09-14T09:18:37+00:00",
+      "src": "Kauppakeskus Arabia"
     }
   ]
 }
